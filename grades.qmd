@@ -17,7 +17,7 @@ format:
 > -- Alfie Kohn, ["The Case Against Grades"](https://www.alfiekohn.org/article/case-grades/)
 > :::
 
-Grades, as they are traditionally thought of, are inherently imprecise and don't represent a full picture of your growth and learning over the course of a semester. Worse than that, research shows that grades undermine the learning process in several ways:
+Grades, as they are traditionally thought of, are inherently imprecise and don't represent a full picture of your growth and learning over the course of a semester. Worse than that, research shows that grades undermine the learning process in several key ways:
 
 -   Grades tend to diminish interest in what you're learning.
 
@@ -26,6 +26,11 @@ Grades, as they are traditionally thought of, are inherently imprecise and don't
 -   Grades tend to reduce the quality of student thinking. The moment we ask \`\`**how** am I doing?'' we lose track of **what** we're doing.
 
 Unfortunately, I am required to submit a grade for each student at the end of the semester -- but I will do what I can to de-emphasize the role of grades in this course so that as much as possible our focus is on learning.
+
+
+To this end, we will use a system I refer to as Standards-Based Grading.  If you took pre-calc or Calc I here at UP, you are familar with this system.
+
+
 
 ## Feedback and Revisions {.unnumbered}
 

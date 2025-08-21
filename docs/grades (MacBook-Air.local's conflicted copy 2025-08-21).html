@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>MTH 202 :: Calculus II – mth202 :: Calculus II Fall 2025</title>
+<title>Grades – mth202 :: Calculus II Fall 2025</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,7 +29,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./general.html" rel="next">
+<link href="./UPElements.html" rel="next">
+<link href="./structure.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -67,6 +68,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="style/mth202.scss">
 </head>
@@ -93,7 +123,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Class Structure</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./course-links.qmd"> 
+    <a class="nav-link" href="./course-links.html"> 
 <span class="menu-text">Quick Links</span></a>
   </li>  
 </ul>
@@ -107,7 +137,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Welcome</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./grades.html">Grades</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -117,7 +147,7 @@ ul.task-list li input[type="checkbox"] {
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
         <div class="mt-2 flex-shrink-0 align-items-center">
@@ -129,7 +159,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Welcome</span></a>
   </div>
 </li>
@@ -159,7 +189,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./grades.html" class="sidebar-item-text sidebar-link">
+  <a href="./grades.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Grades</span></a>
   </div>
 </li>
@@ -191,19 +221,29 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active" data-toc-expanded="2">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#feedback-and-revisions" id="toc-feedback-and-revisions" class="nav-link active" data-scroll-target="#feedback-and-revisions">Feedback and Revisions</a></li>
+  <li><a href="#collaborative-grading" id="toc-collaborative-grading" class="nav-link" data-scroll-target="#collaborative-grading">Collaborative Grading</a></li>
+  <li><a href="#engagement" id="toc-engagement" class="nav-link" data-scroll-target="#engagement">Engagement</a></li>
+  <li><a href="#grade-guidelines" id="toc-grade-guidelines" class="nav-link" data-scroll-target="#grade-guidelines">Grade Guidelines</a></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="grades.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+    </div>
 <!-- main -->
-<main class="content column-page-right" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">MTH 202 :: Calculus II</h1>
-<p class="subtitle lead">Fall 2025</p>
+<h1 class="title">Grades</h1>
 </div>
 
 
 
-<div class="quarto-title-meta column-page-right">
+<div class="quarto-title-meta">
 
     
   
@@ -215,13 +255,98 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="welcome" class="level1 unnumbered center">
-<h1 class="unnumbered">Welcome!</h1>
+<blockquote class="blockquote">
+<p>Extrinsic motivation, which includes a desire to get better grades, is not only different from, but often undermines, intrinsic motivation, a desire to learn for its own sake.</p>
+<div style="text-align: right">
+<p>– Alfie Kohn, <a href="https://www.alfiekohn.org/article/case-grades/">“The Case Against Grades”</a></p>
+</div>
+</blockquote>
+<p>Grades, as they are traditionally thought of, are inherently imprecise and don’t represent a full picture of your growth and learning over the course of a semester. Worse than that, research shows that grades undermine the learning process in several key ways:</p>
+<ul>
+<li><p>Grades tend to diminish interest in what you’re learning.</p></li>
+<li><p>Grades create a preference for the easiest task so that students tend to do what they need to get a certain grade, but no more.</p></li>
+<li><p>Grades tend to reduce the quality of student thinking. The moment we ask ``<strong>how</strong> am I doing?’’ we lose track of <strong>what</strong> we’re doing.</p></li>
+</ul>
+<p>Unfortunately, I am required to submit a grade for each student at the end of the semester – but I will do what I can to de-emphasize the role of grades in this course so that as much as possible our focus is on learning.</p>
+<p>To this end, we will use a system I refer to as Standards-Based Grading. If you took pre-calc or Calc I here at UP, you are familar with this system.</p>
+<section id="feedback-and-revisions" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="feedback-and-revisions">Feedback and Revisions</h2>
+<p>Your goal throughout the semester is to demonstrate your understanding of the course material and specifically our stated learning objectives through your work. Rather than giving you marks on individual assignments, I will instead give you written feedback to let you know how I see your understanding reflected in your work. After addressing that feedback, you’re welcome to resubmit for further feedback if needed.</p>
+<p>Throughout the semester, I will also periodically ask you to reflect carefully on your work and to self-evaluate your progress. The primary pieces of evidence of your learning will be the labs and the projects, but you’re welcome to include any other work in these reflections that you feel demonstrates your learning.</p>
 </section>
-<p>This is the course website for my two sections of MTH 202. Here you can find information about course content and class policies. For day-to-day information about class activities, please check the Moodle page.</p>
-<p>Update: Thursday 8/21, 4:03pm</p>
+<section id="collaborative-grading" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="collaborative-grading">Collaborative Grading</h2>
+<p>At mid-semester and again at the end of the semester, we will compare notes about where you are in your learning. I’ll ask you to present evidence of your learning and in this way, we will determine your your grade collaboratively.</p>
+<p>The intention here is to help you focus on learning in a way that is more organic, as opposed to simply working as you think you’re expected to. If this process causes more anxiety than it alleviates, please see me at any point to confer about your progress in the course – I’m always happy to talk with you about your learning!</p>
+</section>
+<section id="engagement" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="engagement">Engagement</h2>
+<p>Although your course grade will primarily be based on your <strong>understanding</strong> of course content and not on course engagement, in my experience these typically go hand in hand. So while engagement in the course is not itself evidence of understanding, it does usually help us achieve that goal.</p>
+<p>Here are some ways that you can engage with the class:</p>
+<ul>
+<li>Attend class regularly</li>
+<li>Complete assigned problems before class so you’re prepared to engage with that day’s material.</li>
+<li>Contribute to in-class group work including Application Exercises.</li>
+<li>Complete weekly engagement reports</li>
+<li>Complete periodic check-ins</li>
+<li>Come to drop-in hours to ask questions</li>
+<li>Complete labs on time – and asking for help when needed.</li>
+<li>Completing projects on time – and asking for help when needed.</li>
+</ul>
+</section>
+<section id="grade-guidelines" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="grade-guidelines">Grade Guidelines</h2>
+<p>Here are some qualitative descriptions that I find helpful in thinking about student grades. You might find them helpful as well.</p>
+<dl>
+<dt>A</dt>
+<dd>
+<p>This grade generally indicates superior work that demonstrates a deep understanding of the material such that you could apply the material in unfamiliar or especially complex situations. You should should consistently demonstrate this deep understanding of the material using a wide variety of methods described above. This grade likely includes:</p>
+</dd>
+</dl>
+<ul>
+<li>demonstrating <strong>significant</strong> course engagement, including homework, as evidenced in weekly engagement reports and AEs</li>
+<li>successfully completing <strong>all</strong> lab assignments</li>
+<li>successfully completing <strong>both</strong> projects</li>
+</ul>
+<dl>
+<dt>B</dt>
+<dd>
+<p>This grade indicates good work that is eminently satisfactory. You should be able to use and extend this knowledge in many situations although you might have difficulty with particularly challenging or unfamilar problems. You should consistently demonstrate your understanding of the material using some of the methods described above. This grade likely includes</p>
+</dd>
+</dl>
+<ul>
+<li>demonstrating <strong>many</strong> elements of course engagement as evidenced in weekly engagement reports and AEs</li>
+<li>completing <strong>most</strong> lab assignments</li>
+<li>completing <strong>both</strong> projects</li>
+</ul>
+<dl>
+<dt>C</dt>
+<dd>
+<p>This grade indicates competent work that demonstrates an basic understanding of the course material. You should be able to handle most of the more straightforward problems encountered but might struggle with more challenging problems. You might consistently meet only a few of the criteria listed above or else meet several criteria but less often. This grade likely includes</p>
+</dd>
+</dl>
+<ul>
+<li>demonstrating <strong>some</strong> elements of course engagement as evidence in weekly engagement reports and AEs</li>
+<li>completing <strong>some</strong> lab assignments</li>
+<li>attempting at least <strong>one</strong> project</li>
+</ul>
+<dl>
+<dt>D/F</dt>
+<dd>
+<p>These grades represent a fundamental breakdown of expectations. A D represents a meaningful but unsuccessful attempt at earning a C or above. An F represents such a severe lack of engagement, effort, or understanding that there is no evidence of meaningful progress.</p>
+</dd>
+<dt>+/-</dt>
+<dd>
+<p>In discussing your course grade together, we may opt to add a modifier to your grade.</p>
+</dd>
+</dl>
+<ul>
+<li><p>A <span class="math inline">\(\mathbf{-}\)</span> modifier might be added to your grade if you’ve met the standards for a particular grade with the exception of one element (engagement, labs, or projects e.g.)</p></li>
+<li><p>A <span class="math inline">\(\mathbf{+}\)</span> modifier might be added to your grade if you’ve met the standards for a particular grade <strong>and</strong> you’ve met one of the elements for a higher grade.</p></li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -641,12 +766,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-<nav class="page-navigation column-page-right">
+<nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="./structure.html" class="pagination-link" aria-label="Class Structure">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Class Structure</span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./general.html" class="pagination-link" aria-label="General Info">
-        <span class="nav-page-text">General Info</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./UPElements.html" class="pagination-link" aria-label="University Policies">
+        <span class="nav-page-text">University Policies</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

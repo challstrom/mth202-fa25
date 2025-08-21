@@ -8,19 +8,25 @@ format:
     colorlinks: true
 ---
 
-It is my experience that much of your learning in this course will occur outside of class. You might get stuck on a homework problem or lab exercise or perhaps have a question from class that did not get fully resolved. It is also my experience that significant learning occurs when you are talking through the material with another person. Finally, it's important to remember that mathematics is a cumulative subject where material builds upon prior knowledge; once you get behind it is very hard to catch up.
+It is my experience that much of your learning in this course will occur outside of class, whether that's working through homework problems or reviewing class notes. It is also my experience that significant learning occurs when you are talking through the material with another person. Finally, it's important to remember that mathematics is a cumulative subject where material builds upon prior knowledge; once you get behind it is very hard to catch up.
 
-For these reasons among others, I strongly encourage you to reach out at **any** time with **any** question. In addition to emailing me, or stopping by my office, here are some other ways to get help.
+For these reasons among others, I strongly encourage you to reach out at **any** time with **any** questions.   
 
-### Drop-In Student Hours 
+
+
+Here are some ways you might get help
+
+You might get stuck on a homework problem or lab exercise or perhaps have a question from class that did not get fully resolved.
+
+### Drop-In Student Hours
+
 I have set aside the times listed below during which I am available for drop-in help. You do not need to let me know you're coming -- just stop by my office (BC 270). Many students find these drop-in hours can be particularly helpful if you are working together with classmates. You can work together at one of the tables down the hall from my office and just pop in when you have any questions.
 
-+ Tuesday 3-4
-+ Wednesday 10-12
-+ Thursday 2-3
+-   Mon, Wed 9:30 - 11
+-   Tuesday 1-3
 
-::: {.callout-note icon=false appearance=simple}
-Note -- if my schedule changes at any point, I may need to adjust these times.  I will post any changes on Moodle.
+::: {.callout-note icon="false" appearance="simple"}
+Note -- I'm writing this the week before classes begin. If my schedule changes for some reason, I may need to adjust these times. If that happens, I will let you know!
 :::
 
 ### Sign-Up Hours
@@ -33,4 +39,4 @@ I have the scheduled drop-in hours simply to give you some times when you know t
 
 ### Math Resource Center
 
-The MRC offers both drop-in tutoring as well as scheduled, individualized help. I will post the MRC schedule on Moodle as soon as it becomes available (usually the second week of the semester). Note:  the mth 161 tutors in the MRC will likely not be able to help with R questions.
+The MRC offers both drop-in tutoring as well as scheduled, individualized help. I will post the MRC schedule on Moodle as soon as it becomes available (usually the second week of the semester).
