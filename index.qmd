@@ -19,3 +19,5 @@ This is the course website for my two sections of MTH 202. Here you can find inf
 Update: Thursday 8/21, 4:03pm
 
 can push, but not pull. Try again after cleaning up .git config file
+
+removed more conflicted files. Trying again.
