@@ -1,0 +1,36 @@
+---
+title: "Student Support"
+format:
+  html: default
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+---
+
+It is my experience that much of your learning in this course will occur outside of class. You might get stuck on a homework problem or lab exercise or perhaps have a question from class that did not get fully resolved. It is also my experience that significant learning occurs when you are talking through the material with another person. Finally, it's important to remember that mathematics is a cumulative subject where material builds upon prior knowledge; once you get behind it is very hard to catch up.
+
+For these reasons among others, I strongly encourage you to reach out at **any** time with **any** question. In addition to emailing me, or stopping by my office, here are some other ways to get help.
+
+### Drop-In Student Hours 
+I have set aside the times listed below during which I am available for drop-in help. You do not need to let me know you're coming -- just stop by my office (BC 270). Many students find these drop-in hours can be particularly helpful if you are working together with classmates. You can work together at one of the tables down the hall from my office and just pop in when you have any questions.
+
++ Tuesday 3-4
++ Wednesday 10-12
++ Thursday 2-3
+
+::: {.callout-note icon=false appearance=simple}
+Note -- if my schedule changes at any point, I may need to adjust these times.  I will post any changes on Moodle.
+:::
+
+### Sign-Up Hours
+
+I recognize that your schedule might not allow you to stop by during the posted drop-in hours. Or you simply might find it more convenient to meet with me at a different time. If you go to my [Calendly scheduler](https://calendly.com/hallstro), you can sign-up for a time slot to meet, either in person or via zoom. If there is a specific time that you would like to meet and you don't see it available on the Calendly scheduler, please reach out to me via email.
+
+### Open Door
+
+I have the scheduled drop-in hours simply to give you some times when you know that I'll be available -- but you are **always** welcome to stop by my office **at any time**. Unless I'm in class or in a meeting, I will generally be available to meet with you.
+
+### Math Resource Center
+
+The MRC offers both drop-in tutoring as well as scheduled, individualized help. I will post the MRC schedule on Moodle as soon as it becomes available (usually the second week of the semester). Note:  the mth 161 tutors in the MRC will likely not be able to help with R questions.

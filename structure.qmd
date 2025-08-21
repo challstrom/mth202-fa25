@@ -1,0 +1,52 @@
+---
+title: "Class Structure"
+format:
+  html: 
+    toc: true
+    toc-expand: 2
+    toc-title: "On this page"
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+---
+
+## Attendance and Engagement
+
+To get the most out of this course, you should be present and actively engaged in class. There are many ways to be engaged: regularly attending class, completing pre-class and other assignments on-time, engaging productively in group work, asking questions, supporting your classmates, coming to student support hours, and more. To help you develop a habit of engagment, you will have a weekly opportunity to reflect on how you're engaging in our class.
+
+While I do expect you to be in class, I also recognize that occasionally things come up that might prevent you from being there. If you do miss class, you can always check our class Moodle page to see what we covered that day. If you find yourself missing class more than a few times, you can expect that I will check with you to see how I can support your attendence better.
+
+## Homework
+
+Much of our class time will be devoted to working together on activities designed to build understanding on concepts introduced in the textbook. To help ensure that you're prepared for class, I will assign short daily homework (typically 2-3 problems from the book). You should plan on coming to class prepared to discuss this work with your classmates.
+
+## Application Exercises (AE)
+
+These are in-class activities that we will work on in groups. They are designed to introduce or reinforce specific concepts as well as introduce chunks of R code that we'll use for visualization and data analysis. If you have a laptop or tablet, you may find it helpful to bring it to class but as long as someone at your table has a device, that will be sufficient.
+
+## Weekly Engagement Report
+
+Each week, I will ask you to complete a short one-page reflection on that week's engagement. Your report should include the following information:
+
+-   How did you engage in the class this week? Did you attend class? Did you attend student support hours?
+-   Did you complete the assigned homework problems? Did you find them helpful?\
+-   Did you complete any other course work this week, i.e. labs or R tutorials?
+-   What questions came up for you have while doing these problems or doing the class activities? How did you resolve these questions? What questions do you still have?
+
+## Labs
+
+Approximately every two weeks, I will assign a lab. You can think of these as extended homework assignments that will combine concepts with practice. You will use [Posit Cloud](https://posit.cloud) to work on a lab report which you'll submit on Moodle. I will provide feedback after which you're welcome to resubmit any work within one week. A lab is considered **complete** only when feedback has been addressed.
+
+## Quizzes
+
+We may have periodic short in-class quizzes which will help both you and me to check-in about where you are with your understanding of the material.
+
+-   **Final Check-In:** Instead of a final "exam", we will have one last check-in during the timeslot designated for our final. This is simply one last opportunity for you to demonstrate your learning. It is also **optional** in the sense that if you have *already* demonstrated your learning through other means (labs, projects, etc) then you don't need to do it here as well. If you're unsure whether this last check-in would benefit you, come talk to me!
+
+    -   Section H: Monday, Dec. 9th, 10:30-12:30
+    -   Section I: Wednesday, Dec. 11th, 1:30-3:30
+
+## Projects
+
+There are two projects in this course - the first one is due Friday Oct. 13th and the second one is due at the end of the semester, Friday Dec. 6. Details about the projects will be posted here and announced in class as we approach those dates.

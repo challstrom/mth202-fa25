@@ -1,0 +1,47 @@
+---
+title: "Course overview"
+---
+
+## Overview {.unnumbered}
+
+This course will introduce you to the discipline of statistics as a science of understanding and analyzing data. Themes include data collection, exploratory analysis, inference, and modeling. We will consider why in 1950, S. Wilks said, "Statistical thinking will one day be as necessary a qualification for efficient citizenship as the ability to read and write."
+
+You will learn how to effectively make use of data in the face of uncertainty: how to collect data, how to analyze data, and how to use data to make inferences and conclusions about real world phenomena. You will acquire a conceptual understanding and proficiency in statistical and quantitative reasoning tools to help you critique and evaluate data-based claims and decisions.
+
+MTH 161, Elementary Statistics, provides students with an introduction to the methods and concepts involved in working with data and non-deterministic situations. In this class, you will:
+
+-   exposed to the conceptual structure of statistics and its underpinnings in discrete and continuous probability theory.
+
+-   exposed to the pervasive use of statistics in other disciplines.
+
+-   exposed to the uses and misuses of statistical inference (e.g. hypothesis tests) in technical journals and the popular press.
+
+-   introduced to concepts in statistical inference, such as the importance of randomized design, how to collect good data, how to analyze the data, and how to carry out and properly interpret the results of hypothesis tests.
+
+-   develop skills in using computer software to do statistical analysis and inference.
+
+Upon completion of the course you can expect to be conversant in the rudiments of data analysis, probability, hypothesis testing, correlation and regression. At the end of the semester, a successful student will be able to say they can:
+
+-   Perform an exploratory analysis of univariate and bivariate data.
+
+-   Summarize data graphically using histograms, boxplots, scatter plots, etc.
+
+-   Summarize data numerically using measures of central tendency and variation.
+
+-   Recognize a properly defined probability distribution function.
+
+-   Calculate the probabilities of events in a sample space.
+
+-   Articulate the concept of a random variable.
+
+-   Calculate probabilities associated with basic types of random variables.
+
+-   Articulate the Central Limit Theorem.
+
+-   Compute and interpret confidence intervals.
+
+-   Articulate the underlying reasons for steps in hypothesis testing.
+
+-   Setup, conduct and interpret a hypothesis test.
+
+-   Calculate and interpret the least-squares regression line correlation coefficient from bivariate data.

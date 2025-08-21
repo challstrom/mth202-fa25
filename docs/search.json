@@ -26,5 +26,229 @@
     "title": "Summary",
     "section": "",
     "text": "Summary\nIn summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "general.html",
+    "href": "general.html",
+    "title": "General Course Information",
+    "section": "",
+    "text": "This semester, I have two sections of MTH 202. It’s helpful (especially early in the semester) if you you specify your section in any communications with me. You should also include that information on any papers that you hand in."
+  },
+  {
+    "objectID": "general.html#course-materials",
+    "href": "general.html#course-materials",
+    "title": "General Course Information",
+    "section": "Course Materials",
+    "text": "Course Materials\n\nTextbook\nWe will be using the open source textbook Active Caclulus Single Variable, 2nd Edition by Matthew Boelkins, et al. 2025. This is freely available in both online (HTML) and PDF versions through these links:\n\nOnline Version\nPDF Version\n\nI recommend that you use the Online version as it will give you access to interactive problems embedded in the text.\nNote that the text covers both semesters of Calculus – our class will focus on Chapters 5-8.\nWhile a print version of the 2nd edition is not yet available, for Calc II the only difference betweeen the 1st and 2nd editions is Chapter 8, so if you really want a print version, the 1st edition would be fine for Chapters 5-7. To be clear – you do not need a print copy - I mention it just because some students like to have a hard copy of the text. You can order a print version here for about $25 which covers the cost of printing.\n\n\nWorkbook\nAll of the activities from the textbook can also be found bundled in an Activites Workbook for chapters 5-8:\n[AW]: Active Calculus Activities Workbook, chs 5-8, 2nd Ed.\nThese activities are the same as what you’ll find in the textbook, but are formatted with additional white space to make it easier to write and organize your work. It’s not at all necessary that you print these out yourself – but they’re here if you think that might be useful.\nAll additional handouts or course materials will be posted on our class Moodle page. I will also regularly post a summary of our class activities so if you ever miss class for any reason, you can check there to see what you missed.\n\n\nTechnology\nI expect that eveyone has access to a desktop computer, laptop, or tablet device. We will make extensive use of the online graphing tool Desmos so if you don’t already have a free Desmos account, I suggest that you do that so. It’s not necessary to have an account, but it does allow you to save your work. In class, we will often be working in small groups so it’s not necessary for everyone to bring a device to class, but you’ll want to be able to use it outside of class.\nIf you need any assistance getting access to technology, please let me know!\n\n\nAI Policy\n\n\nCollaboration\nUnless otherwise instructed, I encourage you to work together with classmates on homework or other, although any work that you hand in (unless it’s specified as a group assignment) should be your own.\n\n\nOnline resources (including AI)\nI am well aware that there are many online tools that can do many calculations for you. We will talk extensively about when it’s appropriate to use these tools and when it is not. If you do use any online resources, you should absolutely document that. Be specific about what tools you use and how you use them.\n\n\nLate work & extensions\nDue dates for assignments are there to give you structure and to help you keep up with the course material. They also help me provide you with feedback in a timely manner. That said, I understand that things come up periodically that can make it difficult to complete an assignment by the deadline. Life happens!\nIf something comes up that prevents you from completing an assignment by the posted due date, just send me email and let me know when I can expect your work. You do not need to provide an explanation. In general, I will expect to receive your work within one week.\nThere are, however, two hard deadlines to be aware of: Oct. 11th (Friday before Fall break) and Dec. 6th (last day of classes). Except in unusual circumstances or by prior arrangement, I will not accept work after those dates.\n\n\nImportant dates\n\nMon, Aug. 25: Classes begin\nFri, Aug. 29: Last day to add/drop\nMon, Sep. 1: Labor Day – classes in session, offices closed\nMon-Fri, Oct. 13-17: Fall Break\nMon, Nov 24: Last day to Withdraw\nThur-Fri, Nov 27-28: Thanksgiving\nFri, Dec 5: Last day of classes\nMon, Dec 8: Section B final check-in, 1:30-3:30\nTue, Dec 9: Section A final check-in, 1:30-3:30"
+  },
+  {
+    "objectID": "structure.html",
+    "href": "structure.html",
+    "title": "Class Structure",
+    "section": "",
+    "text": "To get the most out of this course, you should be present and actively engaged in class. There are many ways to be engaged: regularly attending class, completing pre-class and other assignments on-time, engaging productively in group work, asking questions, supporting your classmates, coming to student support hours, and more. To help you develop a habit of engagment, you will have a weekly opportunity to reflect on how you’re engaging in our class.\nWhile I do expect you to be in class, I also recognize that occasionally things come up that might prevent you from being there. If you do miss class, you can always check our class Moodle page to see what we covered that day. If you find yourself missing class more than a few times, you can expect that I will check with you to see how I can support your attendence better."
+  },
+  {
+    "objectID": "structure.html#attendance-and-engagement",
+    "href": "structure.html#attendance-and-engagement",
+    "title": "Class Structure",
+    "section": "",
+    "text": "To get the most out of this course, you should be present and actively engaged in class. There are many ways to be engaged: regularly attending class, completing pre-class and other assignments on-time, engaging productively in group work, asking questions, supporting your classmates, coming to student support hours, and more. To help you develop a habit of engagment, you will have a weekly opportunity to reflect on how you’re engaging in our class.\nWhile I do expect you to be in class, I also recognize that occasionally things come up that might prevent you from being there. If you do miss class, you can always check our class Moodle page to see what we covered that day. If you find yourself missing class more than a few times, you can expect that I will check with you to see how I can support your attendence better."
+  },
+  {
+    "objectID": "structure.html#homework",
+    "href": "structure.html#homework",
+    "title": "Class Structure",
+    "section": "Homework",
+    "text": "Homework\nMuch of our class time will be devoted to working together on activities designed to build understanding on concepts introduced in the textbook. To help ensure that you’re prepared for class, I will assign short daily homework (typically 2-3 problems from the book). You should plan on coming to class prepared to discuss this work with your classmates."
+  },
+  {
+    "objectID": "structure.html#application-exercises-ae",
+    "href": "structure.html#application-exercises-ae",
+    "title": "Class Structure",
+    "section": "Application Exercises (AE)",
+    "text": "Application Exercises (AE)\nThese are in-class activities that we will work on in groups. They are designed to introduce or reinforce specific concepts as well as introduce chunks of R code that we’ll use for visualization and data analysis. If you have a laptop or tablet, you may find it helpful to bring it to class but as long as someone at your table has a device, that will be sufficient."
+  },
+  {
+    "objectID": "structure.html#weekly-engagement-report",
+    "href": "structure.html#weekly-engagement-report",
+    "title": "Class Structure",
+    "section": "Weekly Engagement Report",
+    "text": "Weekly Engagement Report\nEach week, I will ask you to complete a short one-page reflection on that week’s engagement. Your report should include the following information:\n\nHow did you engage in the class this week? Did you attend class? Did you attend student support hours?\nDid you complete the assigned homework problems? Did you find them helpful?\n\nDid you complete any other course work this week, i.e. labs or R tutorials?\nWhat questions came up for you have while doing these problems or doing the class activities? How did you resolve these questions? What questions do you still have?"
+  },
+  {
+    "objectID": "structure.html#labs",
+    "href": "structure.html#labs",
+    "title": "Class Structure",
+    "section": "Labs",
+    "text": "Labs\nApproximately every two weeks, I will assign a lab. You can think of these as extended homework assignments that will combine concepts with practice. You will use Posit Cloud to work on a lab report which you’ll submit on Moodle. I will provide feedback after which you’re welcome to resubmit any work within one week. A lab is considered complete only when feedback has been addressed."
+  },
+  {
+    "objectID": "structure.html#quizzes",
+    "href": "structure.html#quizzes",
+    "title": "Class Structure",
+    "section": "Quizzes",
+    "text": "Quizzes\nWe may have periodic short in-class quizzes which will help both you and me to check-in about where you are with your understanding of the material.\n\nFinal Check-In: Instead of a final “exam”, we will have one last check-in during the timeslot designated for our final. This is simply one last opportunity for you to demonstrate your learning. It is also optional in the sense that if you have already demonstrated your learning through other means (labs, projects, etc) then you don’t need to do it here as well. If you’re unsure whether this last check-in would benefit you, come talk to me!\n\nSection H: Monday, Dec. 9th, 10:30-12:30\nSection I: Wednesday, Dec. 11th, 1:30-3:30"
+  },
+  {
+    "objectID": "structure.html#projects",
+    "href": "structure.html#projects",
+    "title": "Class Structure",
+    "section": "Projects",
+    "text": "Projects\nThere are two projects in this course - the first one is due Friday Oct. 13th and the second one is due at the end of the semester, Friday Dec. 6. Details about the projects will be posted here and announced in class as we approach those dates."
+  },
+  {
+    "objectID": "grades.html",
+    "href": "grades.html",
+    "title": "Grades",
+    "section": "",
+    "text": "Extrinsic motivation, which includes a desire to get better grades, is not only different from, but often undermines, intrinsic motivation, a desire to learn for its own sake.\n\n– Alfie Kohn, “The Case Against Grades”\nGrades, as they are traditionally thought of, are inherently imprecise and don’t represent a full picture of your growth and learning over the course of a semester. Worse than that, research shows that grades undermine the learning process in several ways:\nUnfortunately, I am required to submit a grade for each student at the end of the semester – but I will do what I can to de-emphasize the role of grades in this course so that as much as possible our focus is on learning."
+  },
+  {
+    "objectID": "grades.html#feedback-and-revisions",
+    "href": "grades.html#feedback-and-revisions",
+    "title": "Grades",
+    "section": "Feedback and Revisions",
+    "text": "Feedback and Revisions\nYour goal throughout the semester is to demonstrate your understanding of the course material and specifically our stated learning objectives through your work. Rather than giving you marks on individual assignments, I will instead give you written feedback to let you know how I see your understanding reflected in your work. After addressing that feedback, you’re welcome to resubmit for further feedback if needed.\nThroughout the semester, I will also periodically ask you to reflect carefully on your work and to self-evaluate your progress. The primary pieces of evidence of your learning will be the labs and the projects, but you’re welcome to include any other work in these reflections that you feel demonstrates your learning."
+  },
+  {
+    "objectID": "grades.html#collaborative-grading",
+    "href": "grades.html#collaborative-grading",
+    "title": "Grades",
+    "section": "Collaborative Grading",
+    "text": "Collaborative Grading\nAt mid-semester and again at the end of the semester, we will compare notes about where you are in your learning. I’ll ask you to present evidence of your learning and in this way, we will determine your your grade collaboratively.\nThe intention here is to help you focus on learning in a way that is more organic, as opposed to simply working as you think you’re expected to. If this process causes more anxiety than it alleviates, please see me at any point to confer about your progress in the course – I’m always happy to talk with you about your learning!"
+  },
+  {
+    "objectID": "grades.html#engagement",
+    "href": "grades.html#engagement",
+    "title": "Grades",
+    "section": "Engagement",
+    "text": "Engagement\nAlthough your course grade will primarily be based on your understanding of course content and not on course engagement, in my experience these typically go hand in hand. So while engagement in the course is not itself evidence of understanding, it does usually help us achieve that goal.\nHere are some ways that you can engage with the class:\n\nAttend class regularly\nComplete assigned problems before class so you’re prepared to engage with that day’s material.\nContribute to in-class group work including Application Exercises.\nComplete weekly engagement reports\nComplete periodic check-ins\nCome to drop-in hours to ask questions\nComplete labs on time – and asking for help when needed.\nCompleting projects on time – and asking for help when needed."
+  },
+  {
+    "objectID": "grades.html#grade-guidelines",
+    "href": "grades.html#grade-guidelines",
+    "title": "Grades",
+    "section": "Grade Guidelines",
+    "text": "Grade Guidelines\nHere are some qualitative descriptions that I find helpful in thinking about student grades. You might find them helpful as well.\n\nA\n\nThis grade generally indicates superior work that demonstrates a deep understanding of the material such that you could apply the material in unfamiliar or especially complex situations. You should should consistently demonstrate this deep understanding of the material using a wide variety of methods described above. This grade likely includes:\n\n\n\ndemonstrating significant course engagement, including homework, as evidenced in weekly engagement reports and AEs\nsuccessfully completing all lab assignments\nsuccessfully completing both projects\n\n\nB\n\nThis grade indicates good work that is eminently satisfactory. You should be able to use and extend this knowledge in many situations although you might have difficulty with particularly challenging or unfamilar problems. You should consistently demonstrate your understanding of the material using some of the methods described above. This grade likely includes\n\n\n\ndemonstrating many elements of course engagement as evidenced in weekly engagement reports and AEs\ncompleting most lab assignments\ncompleting both projects\n\n\nC\n\nThis grade indicates competent work that demonstrates an basic understanding of the course material. You should be able to handle most of the more straightforward problems encountered but might struggle with more challenging problems. You might consistently meet only a few of the criteria listed above or else meet several criteria but less often. This grade likely includes\n\n\n\ndemonstrating some elements of course engagement as evidence in weekly engagement reports and AEs\ncompleting some lab assignments\nattempting at least one project\n\n\nD/F\n\nThese grades represent a fundamental breakdown of expectations. A D represents a meaningful but unsuccessful attempt at earning a C or above. An F represents such a severe lack of engagement, effort, or understanding that there is no evidence of meaningful progress.\n\n+/-\n\nIn discussing your course grade together, we may opt to add a modifier to your grade.\n\n\n\nA \\(\\mathbf{-}\\) modifier might be added to your grade if you’ve met the standards for a particular grade with the exception of one element (engagement, labs, or projects e.g.)\nA \\(\\mathbf{+}\\) modifier might be added to your grade if you’ve met the standards for a particular grade and you’ve met one of the elements for a higher grade."
+  },
+  {
+    "objectID": "content.html",
+    "href": "content.html",
+    "title": "Learning Targets",
+    "section": "",
+    "text": "Broadly speaking, this course covers many of the foundational topics of integral calculus, meaning we will learn methods of evaluating integrals as well as interpret the integral in the context of a variety of applications. We will also introduce topics such as differential equations and Taylor series which are important tools as you build on your understaning of calculus in later courses.\nThe bulk of the course content is represented by the following specific topics which we will call Learning Targets. Your goal over the course of the semester is to demonstrate your understanding of these topics via various assessment tasks – primarily our weekly check-ins. I’ve organized these topics to generally align with our textbook."
+  },
+  {
+    "objectID": "content.html#university-core-statement",
+    "href": "content.html#university-core-statement",
+    "title": "Learning Targets",
+    "section": "University Core Statement",
+    "text": "University Core Statement\nThe University of Portland offers a liberal arts Core Curriculum with a vision of students acquiring knowledge, skills, and values that will prepare you to respond to the needs of the world and its human family, while having a foundation of multiple lenses to address enduring questions of human concern. The University Core Curriculum strives to achieve this vision by cultivating six habits of heart and mind in all graduates regardless of major.\nAs a priority for this Core class, our focus is the ``scientific and quantitative literacy and problem solving’’ habit. As part of developing that habit this course will prioritize students learning to employ mathematical and statistical skills to explore and make sense of data. Toward this end, as one specific Core learning outcome for this class, the expectation is that students who complete this course will be able to use the tools of differential and integral calculus to solve complex problems and effectively communicate solutions in written form."
+  },
+  {
+    "objectID": "course_outline.html",
+    "href": "course_outline.html",
+    "title": "Course Outline",
+    "section": "",
+    "text": "This is a more detailed outline of the content we’ll cover this semester, organized by week. This schedule is subject to change. Section numbers correspond to OpenIntro4e.\n\n\n\nTuesday: Introductions and community buildings.\nThursday: introduction to R and RStudio\n\n\n\n\n\nTuesday: Section 1.2, Data Basics\nThursday: AE1 (Penguins)\n\n\n\n\n\nTuesday: 1.3-4; Sampling Basics, Experiments, Observational Studies\nThursday: AE2 (Covid)"
+  },
+  {
+    "objectID": "course_outline.html#week-one",
+    "href": "course_outline.html#week-one",
+    "title": "Course Outline",
+    "section": "",
+    "text": "Tuesday: Introductions and community buildings.\nThursday: introduction to R and RStudio"
+  },
+  {
+    "objectID": "course_outline.html#week-two",
+    "href": "course_outline.html#week-two",
+    "title": "Course Outline",
+    "section": "",
+    "text": "Tuesday: Section 1.2, Data Basics\nThursday: AE1 (Penguins)"
+  },
+  {
+    "objectID": "course_outline.html#week-three",
+    "href": "course_outline.html#week-three",
+    "title": "Course Outline",
+    "section": "",
+    "text": "Tuesday: 1.3-4; Sampling Basics, Experiments, Observational Studies\nThursday: AE2 (Covid)"
+  },
+  {
+    "objectID": "course-overview.html",
+    "href": "course-overview.html",
+    "title": "Course overview",
+    "section": "",
+    "text": "This course will introduce you to the discipline of statistics as a science of understanding and analyzing data. Themes include data collection, exploratory analysis, inference, and modeling. We will consider why in 1950, S. Wilks said, “Statistical thinking will one day be as necessary a qualification for efficient citizenship as the ability to read and write.”\nYou will learn how to effectively make use of data in the face of uncertainty: how to collect data, how to analyze data, and how to use data to make inferences and conclusions about real world phenomena. You will acquire a conceptual understanding and proficiency in statistical and quantitative reasoning tools to help you critique and evaluate data-based claims and decisions.\nMTH 161, Elementary Statistics, provides students with an introduction to the methods and concepts involved in working with data and non-deterministic situations. In this class, you will:\n\nexposed to the conceptual structure of statistics and its underpinnings in discrete and continuous probability theory.\nexposed to the pervasive use of statistics in other disciplines.\nexposed to the uses and misuses of statistical inference (e.g. hypothesis tests) in technical journals and the popular press.\nintroduced to concepts in statistical inference, such as the importance of randomized design, how to collect good data, how to analyze the data, and how to carry out and properly interpret the results of hypothesis tests.\ndevelop skills in using computer software to do statistical analysis and inference.\n\nUpon completion of the course you can expect to be conversant in the rudiments of data analysis, probability, hypothesis testing, correlation and regression. At the end of the semester, a successful student will be able to say they can:\n\nPerform an exploratory analysis of univariate and bivariate data.\nSummarize data graphically using histograms, boxplots, scatter plots, etc.\nSummarize data numerically using measures of central tendency and variation.\nRecognize a properly defined probability distribution function.\nCalculate the probabilities of events in a sample space.\nArticulate the concept of a random variable.\nCalculate probabilities associated with basic types of random variables.\nArticulate the Central Limit Theorem.\nCompute and interpret confidence intervals.\nArticulate the underlying reasons for steps in hypothesis testing.\nSetup, conduct and interpret a hypothesis test.\nCalculate and interpret the least-squares regression line correlation coefficient from bivariate data."
+  },
+  {
+    "objectID": "course-overview.html#overview",
+    "href": "course-overview.html#overview",
+    "title": "Course overview",
+    "section": "",
+    "text": "This course will introduce you to the discipline of statistics as a science of understanding and analyzing data. Themes include data collection, exploratory analysis, inference, and modeling. We will consider why in 1950, S. Wilks said, “Statistical thinking will one day be as necessary a qualification for efficient citizenship as the ability to read and write.”\nYou will learn how to effectively make use of data in the face of uncertainty: how to collect data, how to analyze data, and how to use data to make inferences and conclusions about real world phenomena. You will acquire a conceptual understanding and proficiency in statistical and quantitative reasoning tools to help you critique and evaluate data-based claims and decisions.\nMTH 161, Elementary Statistics, provides students with an introduction to the methods and concepts involved in working with data and non-deterministic situations. In this class, you will:\n\nexposed to the conceptual structure of statistics and its underpinnings in discrete and continuous probability theory.\nexposed to the pervasive use of statistics in other disciplines.\nexposed to the uses and misuses of statistical inference (e.g. hypothesis tests) in technical journals and the popular press.\nintroduced to concepts in statistical inference, such as the importance of randomized design, how to collect good data, how to analyze the data, and how to carry out and properly interpret the results of hypothesis tests.\ndevelop skills in using computer software to do statistical analysis and inference.\n\nUpon completion of the course you can expect to be conversant in the rudiments of data analysis, probability, hypothesis testing, correlation and regression. At the end of the semester, a successful student will be able to say they can:\n\nPerform an exploratory analysis of univariate and bivariate data.\nSummarize data graphically using histograms, boxplots, scatter plots, etc.\nSummarize data numerically using measures of central tendency and variation.\nRecognize a properly defined probability distribution function.\nCalculate the probabilities of events in a sample space.\nArticulate the concept of a random variable.\nCalculate probabilities associated with basic types of random variables.\nArticulate the Central Limit Theorem.\nCompute and interpret confidence intervals.\nArticulate the underlying reasons for steps in hypothesis testing.\nSetup, conduct and interpret a hypothesis test.\nCalculate and interpret the least-squares regression line correlation coefficient from bivariate data."
+  },
+  {
+    "objectID": "support.html",
+    "href": "support.html",
+    "title": "Student Support",
+    "section": "",
+    "text": "It is my experience that much of your learning in this course will occur outside of class. You might get stuck on a homework problem or lab exercise or perhaps have a question from class that did not get fully resolved. It is also my experience that significant learning occurs when you are talking through the material with another person. Finally, it’s important to remember that mathematics is a cumulative subject where material builds upon prior knowledge; once you get behind it is very hard to catch up.\nFor these reasons among others, I strongly encourage you to reach out at any time with any question. In addition to emailing me, or stopping by my office, here are some other ways to get help.\n\nDrop-In Student Hours\nI have set aside the times listed below during which I am available for drop-in help. You do not need to let me know you’re coming – just stop by my office (BC 270). Many students find these drop-in hours can be particularly helpful if you are working together with classmates. You can work together at one of the tables down the hall from my office and just pop in when you have any questions.\n\nTuesday 3-4\nWednesday 10-12\nThursday 2-3\n\n\n\n\n\n\n\nNote – if my schedule changes at any point, I may need to adjust these times. I will post any changes on Moodle.\n\n\n\n\n\nSign-Up Hours\nI recognize that your schedule might not allow you to stop by during the posted drop-in hours. Or you simply might find it more convenient to meet with me at a different time. If you go to my Calendly scheduler, you can sign-up for a time slot to meet, either in person or via zoom. If there is a specific time that you would like to meet and you don’t see it available on the Calendly scheduler, please reach out to me via email.\n\n\nOpen Door\nI have the scheduled drop-in hours simply to give you some times when you know that I’ll be available – but you are always welcome to stop by my office at any time. Unless I’m in class or in a meeting, I will generally be available to meet with you.\n\n\nMath Resource Center\nThe MRC offers both drop-in tutoring as well as scheduled, individualized help. I will post the MRC schedule on Moodle as soon as it becomes available (usually the second week of the semester). Note: the mth 161 tutors in the MRC will likely not be able to help with R questions."
+  },
+  {
+    "objectID": "UPElements.html",
+    "href": "UPElements.html",
+    "title": "University Policies",
+    "section": "",
+    "text": "The University of Portland is a diverse academic community of learners and scholars who are dedicated to freely sharing ideas and engaging in respectful discussion of those ideas to discover truth. Such pursuits require each person, whether student or faculty, to present truthfully our own ideas and give credit to others for the ideas that they generate. Thus, cheating on exams, copying another student’s assignment, including homework, or using the work of others without proper citation are some examples of violating academic integrity.\nEspecially for written and oral assignments, students have an ethical responsibility to properly cite the authors of any books, articles, or other sources that they use. Students should expect to submit assignments to Turnitin, a database that ensures assignments are original work of the student submitting. Each discipline has guidelines for how to give appropriate credit, and instructors will communicate the specific guidelines for their discipline. The Clark Library also maintains a webpage that provides citation guidelines at libguides.up.edu/cite.\nThe misuse of AI to shortcut course learning outcomes will be treated as a violation of academic integrity comparable to plagiarism or cheating. Faculty are responsible for including a written “Course AI Policy” in their syllabi that clearly states what they consider appropriate and inappropriate uses of AI in the context of their courses. Students are responsible for using AI in ways that do not detract from the established learning outcomes of the course. All members of the scholarly community are responsible for demonstrating sound judgment in discerning when and how to utilize AI in their work, upholding standards of citation, originality, and integrity."
+  },
+  {
+    "objectID": "UPElements.html#academic-integrity",
+    "href": "UPElements.html#academic-integrity",
+    "title": "University Policies",
+    "section": "",
+    "text": "The University of Portland is a diverse academic community of learners and scholars who are dedicated to freely sharing ideas and engaging in respectful discussion of those ideas to discover truth. Such pursuits require each person, whether student or faculty, to present truthfully our own ideas and give credit to others for the ideas that they generate. Thus, cheating on exams, copying another student’s assignment, including homework, or using the work of others without proper citation are some examples of violating academic integrity.\nEspecially for written and oral assignments, students have an ethical responsibility to properly cite the authors of any books, articles, or other sources that they use. Students should expect to submit assignments to Turnitin, a database that ensures assignments are original work of the student submitting. Each discipline has guidelines for how to give appropriate credit, and instructors will communicate the specific guidelines for their discipline. The Clark Library also maintains a webpage that provides citation guidelines at libguides.up.edu/cite.\nThe misuse of AI to shortcut course learning outcomes will be treated as a violation of academic integrity comparable to plagiarism or cheating. Faculty are responsible for including a written “Course AI Policy” in their syllabi that clearly states what they consider appropriate and inappropriate uses of AI in the context of their courses. Students are responsible for using AI in ways that do not detract from the established learning outcomes of the course. All members of the scholarly community are responsible for demonstrating sound judgment in discerning when and how to utilize AI in their work, upholding standards of citation, originality, and integrity."
+  },
+  {
+    "objectID": "UPElements.html#assessment-disclosure",
+    "href": "UPElements.html#assessment-disclosure",
+    "title": "University Policies",
+    "section": "Assessment Disclosure",
+    "text": "Assessment Disclosure\nStudent work products for this course may be used by the University for educational quality assurance purposes. For reasons of confidentiality, such examples will not include student names."
+  },
+  {
+    "objectID": "UPElements.html#accessibility",
+    "href": "UPElements.html#accessibility",
+    "title": "University Policies",
+    "section": "Accessibility",
+    "text": "Accessibility\nThe University of Portland strives to make its courses and services fully accessible to all students. Students are encouraged to discuss with their instructors what might be most helpful in enabling them to meet the learning goals of the course. Students who experience a disability are encouraged to use the services of the Office for Accessible Education Services (AES), located in the Shepard Academic Resource Center (503-943- 8985). If you have an AES Accommodation Plan, you should meet with your instructor to discuss how to implement your plan in this class. Requests for alternate location for exams and/or extended exam time should, where possible, be made two weeks in advance of an exam, and must be made at least one week in advance of an exam. Also, if applicable, you should meet with your instructor to discuss emergency medical information or how best to ensure your safe evacuation from the building in case of fire or other emergency. All information that students provide regarding disability or accommodation is confidential. All students are responsible for completing the required coursework and are held to the same evaluation standards specified in the course syllabus."
+  },
+  {
+    "objectID": "UPElements.html#mental-health",
+    "href": "UPElements.html#mental-health",
+    "title": "University Policies",
+    "section": "Mental Health",
+    "text": "Mental Health\nAnyone can experience problems with their mental health that interfere with academic experiences and negatively impact daily life. If you or someone you know experiences mental health challenges at UP, please contact the University of Portland Counseling Center in the upper level of Orrico Hall (down the hill from Franz Hall and near Mehling Hall) at 503-943-7134 or hcc@up.edu. Their services are free and confidential. In addition, mental health consultation and support is available through the Pilot Helpline by calling 503-943-7134 and pressing 3. The University of Portland Campus Safety Department (503-943-4444) also has personnel trained to respond sensitively to mental health emergencies at all hours. Remember that getting help is a smart and courageous thing to do – for yourself, for those you care about, and for those who care about you. For more information on health and wellness resources at UP go to www.linktr.ee/wellnessUP."
+  },
+  {
+    "objectID": "UPElements.html#non-violence",
+    "href": "UPElements.html#non-violence",
+    "title": "University Policies",
+    "section": "Non-Violence",
+    "text": "Non-Violence\nThe University of Portland is committed to fostering a safe and respectful community free from all forms of violence. Violence of any kind, and in particular acts of power- based personal violence, are inconsistent with our mission. Together, all UP community members must take a stand against violence. Learn more about what interpersonal violence looks like, campus and community resources, UP’s prevention strategy, and what we as individuals can do to assist on the Green Dot website. Further information and reporting options may be found on the Title IX website."
+  },
+  {
+    "objectID": "UPElements.html#ethics-of-information",
+    "href": "UPElements.html#ethics-of-information",
+    "title": "University Policies",
+    "section": "Ethics of Information",
+    "text": "Ethics of Information\nThe University of Portland is a community dedicated to the investigation and discovery of processes for thinking ethically and encouraging the development of ethical reasoning in the formation of the whole person. Using information ethically, as an element in open and honest scholarly endeavors, involves moral reasoning to determine the right way to access, create, distribute, and employ information, including: considerations of intellectual property rights, fair use, information bias, censorship, and privacy. More information can be found in the Clark Library’s guide to the Ethical Use of Information."
+  },
+  {
+    "objectID": "UPElements.html#the-learning-commons",
+    "href": "UPElements.html#the-learning-commons",
+    "title": "University Policies",
+    "section": "The Learning Commons",
+    "text": "The Learning Commons\nStudents may receive academic assistance through Learning Commons tutoring services and workshops. The Co-Pilot peer tutoring program provides students with opportunities to work with other students to get help in writing, math, group projects, and many other courses. Schedule an appointment to meet with a Co-Pilot (tutor) by visiting the Learning Commons website. Students can also meet with a Co-Pilot during drop-in hours. Check the Learning Commons website or stop by the Learning Commons in BC 163 to learn more about their services. Co-Pilots are a wonderful support along your academic journey."
   }
 ]
