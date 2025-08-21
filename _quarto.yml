@@ -1,23 +1,64 @@
 project:
-  type: book
+  type: website
+  output-dir: docs
 
 book:
-  title: "mth202-fa25"
-  author: "Norah Jones"
-  date: "8/21/2025"
+  title: "MTH202 :: Fall 2025"
+  author: "Chris Hallstrom"
   chapters:
     - index.qmd
     - intro.qmd
     - summary.qmd
     - references.qmd
 
-bibliography: references.bib
+
+website:
+  title: "mth202 :: Calculus II <br>Fall 2025"
+  description: "MTH202, Fall 2025"
+
+  page-navigation: true
+  
+  navbar:
+    background: "#DDA853"
+    right:
+      - structure.qmd
+      - href: course-links.qmd
+        text: Quick Links
+  sidebar:
+    background: "#27548A"
+#    logo: "images/logo.png"
+    pinned: true
+    align: center
+
+    style: docked
+    search: true
+    collapse-level: 1
+
+    contents:
+      - href: index.qmd
+        text: Welcome
+      - href: general.qmd
+        text: General Info
+      - href: support.qmd
+      - href: content.qmd
+        text: Course Content
+      - href: structure.qmd
+      - href: grades.qmd
+      - href: UPElements.qmd
+        text: University Policies
+      - section: "Preview Activities"
+        contents:
+          - href: slides/01/01-welcome.qmd
+            text: "Tuesday, Week 1"
+            target: _blank
 
 format:
   html:
-    theme: cosmo
-  pdf:
-    documentclass: scrreprt
+    #theme: sandstone
+    theme: simplex
+    css: style/mth202.scss
+    toc: true
+    highlight-style: monokai
 
 editor: visual
 

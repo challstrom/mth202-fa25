@@ -1,9 +1,17 @@
-# Preface {.unnumbered}
+---
+title: "MTH 202 :: Calculus II"
+subtitle: "Fall 2025"
+details: "Sections A, B"
 
-This is a Quarto book. Dang! Ok then!!
+sidebar: true
+page-layout: full
+format:
+  html: 
+    toc: false
+---
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+::: center
+# Welcome! {.unnumbered}
+:::
 
-```{r}
-1 + 1
-```
+This is the course website for my two sections of MTH 202. Here you can find information about course content and class policies. For day-to-day information about class activities, please check the Moodle page.
