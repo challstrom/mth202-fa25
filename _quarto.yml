@@ -22,7 +22,12 @@ website:
   
   navbar:
     background: "#7A85C1"
-
+    search: true
+    right:
+      - href: general.qmd
+        text: General Course Info
+    downloads: [pdf]
+  
   sidebar:
     background: "#B2B0E8"
 #    logo: "images/logo.png"

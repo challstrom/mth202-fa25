@@ -19,7 +19,7 @@ This semester, I have two sections of MTH 202. It's helpful (especially early in
 
 ## Instructor
 
-:::::: columns
+::: columns
 ::: {.column width="65%"}
 Chris Hallstrom, PhD <br> (he/him)
 
@@ -37,7 +37,7 @@ Students sometimes ask how they should address me. While I won't be offended if 
 ::: {.column width="30%"}
 ![](images/cch_raingear.png)
 :::
-::::::
+:::
 
 ### Contact Information
 
@@ -76,37 +76,33 @@ All additional handouts or course materials will be posted on our class [Moodle]
 
 ### Technology
 
-I expect that everyone has access to a desktop computer, laptop, or tablet device. We will make use of the online graphing tool [Desmos](https://www.desmos.com/calculator) so if you don't already have a free Desmos account, I recommend that you sign up for one. It's not absolutely necessary, but it does allow you to save your work, which is nice. In class, we will often be working in small groups so it's not necessary for everyone to bring a device to class, but you'll want to be able to use it outside of class.  Note that if you already have a graphing calculator, you may find that useful, but my experience is that Desmos is the better tool for our needs.  
+I expect that everyone has access to a desktop computer, laptop, or tablet device. We will make use of the online graphing tool [Desmos](https://www.desmos.com/calculator) so if you don't already have a free Desmos account, I recommend that you sign up for one. It's not absolutely necessary, but it does allow you to save your work, which is nice. In class, we will often be working in small groups so it's not necessary for everyone to bring a device to class, but you'll want to be able to use it outside of class. Note that if you already have a graphing calculator, you may find that useful, but my experience is that Desmos is the better tool for our needs.
 
-From time to time, we may also make use of online tools such as Wolfram Alpha for certain calculations.  We will discuss in class when such tools are approprate.  Note that GenAI tools such as ChatGPT are **not** appropriate for doing mathematics.  Again, we will discuss why this is throughout the semester.
+From time to time, we may also make use of online tools such as Wolfram Alpha for certain calculations. We will discuss in class when such tools are approprate. Note that GenAI tools such as ChatGPT are **not** appropriate for doing mathematics. Again, we will discuss why this is throughout the semester.
 
 Finally, if you need any assistance getting access to technology, please let me know!
 
-
 ## AI Policy
 
-We will discuss AI use in class on Wednesday, so I'm holding off on posting my take until then.  I'll update this section later this week.
+We will discuss AI use in class on Wednesday, so I'm holding off on posting my take until then. I'll update this section later this week.
 
 <!-- So here's the deal...   -->
 
 <!-- I strongly discourage you from using generative AI in any form in this class.  -->
 
 <!-- - From an ethical standpoint, the use of publicly available GenAI tools like ChatGPT or Copilot is highly problematic to say the least.  They are built using stolen intellectual property using exploitative labor practices and they present severe environmental, economic, and political threats to society.   -->
-<!-- - From the standpoint of their impact on learning, there is evidence suggesting that AI use can erode creative and critical thinking skills -- the very things you are in this class to cultivate.  -->
 
+<!-- - From the standpoint of their impact on learning, there is evidence suggesting that AI use can erode creative and critical thinking skills -- the very things you are in this class to cultivate.  -->
 
 <!-- At the same time, I am not interested in policing you or participating in a surveillance state  [surveillance](https://thehill.com/opinion/technology/4319035-ai-is-supercharging-child-surveillance-and-the-school-to-prison-pipeline/) [structure](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/16105) that claims to “detect” AI-produced material -->
 
 <!-- creating a hostile dynamic between you and your instructor. College is a time for you to decide who you want to be, how you want to engage the work, and take some degree of control. We will discuss this more in class. -->
 
-
 <!-- Note that this AI policy applies only to this course. For your other courses, please follow those professors’ AI policies, which may differ from mine. -->
 
 ## Collaboration
 
-Unless otherwise instructed, I encourage you to work together with classmates on homework or other assignments, although any work that you hand in (unless it's specified as a group assignment) should be your own.  Unless otherwise instructed, all check-ins should be done individually.
-
-
+Unless otherwise instructed, I encourage you to work together with classmates on homework or other assignments, although any work that you hand in (unless it's specified as a group assignment) should be your own. Unless otherwise instructed, all check-ins should be done individually.
 
 ### Late work & extensions {#sec-late-work-extensions}
 

@@ -4,10 +4,7 @@
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "Welcome!\n\nThis is the course website for my two sections of MTH 202 in Fall 2025. Here you can find information about course content, class policies, and resources to support your learning. This is meant to be a relatively static site, meaning it won’t be updated during the semester. For day-to-day information about class activities or assignments, please check our class Moodle page.\nI am looking forward to working with each of you this semester and it is my top priority to support your growth as a learner and to make our time together, both in class and out, productive and engaging. My goal is to create a learning environment where you feel comfortable participating in class as well as coming to me with any questions or concerns that arise, mathematical and otherwise.\nWhile I’ll do everything in my power to support you, your success in this course ultimately depends on you. I ask you to bring a readiness to work and a belief that you can learn. I absolutely believe this about each of you. I will ask you to do tasks that are just at the edge of what you can handle because that is how the best learning happens, but if you are prepared to invest your time and energy, and to communicate with me about how you’re doing, I can and will support you.\nWe will strive in this class to create an environment that values our different perspectives and celebrates the contributions of every person. I promise to be respectful of you and your ideas. No matter your background or identity, you are welcome in this classroom. You belong here!",
-    "crumbs": [
-      "Welcome"
-    ]
+    "text": "Welcome!\n\nThis is the course website for my two sections of MTH 202 in Fall 2025. Here you can find information about course content, class policies, and resources to support your learning. This is meant to be a relatively static site, meaning it won’t be updated during the semester. For day-to-day information about class activities or assignments, please check our class Moodle page.\nI am looking forward to working with each of you this semester and it is my top priority to support your growth as a learner and to make our time together, both in class and out, productive and engaging. My goal is to create a learning environment where you feel comfortable participating in class as well as coming to me with any questions or concerns that arise, mathematical and otherwise.\nWhile I’ll do everything in my power to support you, your success in this course ultimately depends on you. I ask you to bring a readiness to work and a belief that you can learn. I absolutely believe this about each of you. I will ask you to do tasks that are just at the edge of what you can handle because that is how the best learning happens, but if you are prepared to invest your time and energy, and to communicate with me about how you’re doing, I can and will support you.\nWe will strive in this class to create an environment that values our different perspectives and celebrates the contributions of every person. I promise to be respectful of you and your ideas. No matter your background or identity, you are welcome in this classroom. You belong here!"
   },
   {
     "objectID": "references.html",
@@ -35,20 +32,14 @@
     "href": "general.html",
     "title": "General Course Information",
     "section": "",
-    "text": "This semester, I have two sections of MTH 202. It’s helpful (especially early in the semester) if you tell me your section in any communications with me. You should also include that information on any papers that you hand in.",
-    "crumbs": [
-      "General Info"
-    ]
+    "text": "This semester, I have two sections of MTH 202. It’s helpful (especially early in the semester) if you tell me your section in any communications with me. You should also include that information on any papers that you hand in."
   },
   {
     "objectID": "general.html#course-materials",
     "href": "general.html#course-materials",
     "title": "General Course Information",
     "section": "Course Materials",
-    "text": "Course Materials\n\nTextbook\nWe will be using the open source textbook Active Caclulus Single Variable, 2nd Edition by Matthew Boelkins, et al. 2025. This is a free, open-source text available in both online (HTML) and PDF versions:\n\nOnline Version\nPDF Version\n\nI recommend that you use the online version as it will give you access to interactive problems embedded in the text. Note that this text covers both Calc I and Calc II material – we will focus on Chapters 5-8.\nWhile a print version of the 2nd edition is not yet available, there’s no difference between the 1st and 2nd editions for Chapters 5-7, so if you really want a print version, the 1st edition would be fine. To be clear – you do not need a print copy - I mention it just because some students like to have a hard copy of the text. You can order a print version here for about $25 which covers the cost of printing.\n\n\nWorkbook\nAll of the activities from the textbook can also be found bundled in an Activites Workbook for chapters 5-8:\n[AW]: Active Calculus Activities Workbook, chs 5-8, 2nd Ed.\nThese activities are the same as what you’ll find in the textbook, but are formatted with additional white space to make it easier to write and organize your work. It’s not at all necessary that you print these out yourself – but they’re here if you think that might be useful.\nAll additional handouts or course materials will be posted on our class Moodle page. I will also regularly post a summary of our class activities so if you ever miss class for any reason, you can check there to see what you missed.\n\n\nTechnology\nI expect that everyone has access to a desktop computer, laptop, or tablet device. We will make use of the online graphing tool Desmos so if you don’t already have a free Desmos account, I recommend that you sign up for one. It’s not absolutely necessary, but it does allow you to save your work, which is nice. In class, we will often be working in small groups so it’s not necessary for everyone to bring a device to class, but you’ll want to be able to use it outside of class. Note that if you already have a graphing calculator, you may find that useful, but my experience is that Desmos is the better tool for our needs.\nFrom time to time, we may also make use of online tools such as Wolfram Alpha for certain calculations. We will discuss in class when such tools are approprate. Note that GenAI tools such as ChatGPT are not appropriate for doing mathematics. Again, we will discuss why this is throughout the semester.\nFinally, if you need any assistance getting access to technology, please let me know!",
-    "crumbs": [
-      "General Info"
-    ]
+    "text": "Course Materials\n\nTextbook\nWe will be using the open source textbook Active Caclulus Single Variable, 2nd Edition by Matthew Boelkins, et al. 2025. This is a free, open-source text available in both online (HTML) and PDF versions:\n\nOnline Version\nPDF Version\n\nI recommend that you use the online version as it will give you access to interactive problems embedded in the text. Note that this text covers both Calc I and Calc II material – we will focus on Chapters 5-8.\nWhile a print version of the 2nd edition is not yet available, there’s no difference between the 1st and 2nd editions for Chapters 5-7, so if you really want a print version, the 1st edition would be fine. To be clear – you do not need a print copy - I mention it just because some students like to have a hard copy of the text. You can order a print version here for about $25 which covers the cost of printing.\n\n\nWorkbook\nAll of the activities from the textbook can also be found bundled in an Activites Workbook for chapters 5-8:\n[AW]: Active Calculus Activities Workbook, chs 5-8, 2nd Ed.\nThese activities are the same as what you’ll find in the textbook, but are formatted with additional white space to make it easier to write and organize your work. It’s not at all necessary that you print these out yourself – but they’re here if you think that might be useful.\nAll additional handouts or course materials will be posted on our class Moodle page. I will also regularly post a summary of our class activities so if you ever miss class for any reason, you can check there to see what you missed.\n\n\nTechnology\nI expect that everyone has access to a desktop computer, laptop, or tablet device. We will make use of the online graphing tool Desmos so if you don’t already have a free Desmos account, I recommend that you sign up for one. It’s not absolutely necessary, but it does allow you to save your work, which is nice. In class, we will often be working in small groups so it’s not necessary for everyone to bring a device to class, but you’ll want to be able to use it outside of class. Note that if you already have a graphing calculator, you may find that useful, but my experience is that Desmos is the better tool for our needs.\nFrom time to time, we may also make use of online tools such as Wolfram Alpha for certain calculations. We will discuss in class when such tools are approprate. Note that GenAI tools such as ChatGPT are not appropriate for doing mathematics. Again, we will discuss why this is throughout the semester.\nFinally, if you need any assistance getting access to technology, please let me know!"
   },
   {
     "objectID": "structure.html",
@@ -236,11 +227,7 @@
     "href": "support.html",
     "title": "Student Support",
     "section": "",
-    "text": "Whether it’s working on homework problems, making quiz corrections, or just reviewing class notes, I expect that much of your learning in this course will happen outside of class. You will have questions from time-to-time and you might not want to wait until our next class to get them answered. Keep in mind that mathematics is a cumulative subject where content builds upon prior knowledge; once you get behind it can be very hard to catch up.\nFor all of these reasons, it’s important that you know how to get your questions answered outside of class. Below you’ll find a list of some of the primary ways to get help, but please know that one of my top priorities is to support your learning so if you find you need any additional help accessing support for any reason please let me know!",
-    "crumbs": [
-      "Class Structure",
-      "Student Support"
-    ]
+    "text": "Whether it’s working on homework problems, making quiz corrections, or just reviewing class notes, I expect that much of your learning in this course will happen outside of class. You will have questions from time-to-time and you might not want to wait until our next class to get them answered. Keep in mind that mathematics is a cumulative subject where content builds upon prior knowledge; once you get behind it can be very hard to catch up.\nFor all of these reasons, it’s important that you know how to get your questions answered outside of class. Below you’ll find a list of some of the primary ways to get help, but please know that one of my top priorities is to support your learning so if you find you need any additional help accessing support for any reason please let me know!"
   },
   {
     "objectID": "UPElements.html",
@@ -407,64 +394,42 @@
     "href": "general.html#instructor",
     "title": "General Course Information",
     "section": "Instructor",
-    "text": "Instructor\n\n\nChris Hallstrom, PhD  (he/him)\nStudents sometimes ask how they should address me. While I won’t be offended if you use my first name, I know that many students aren’t comfortable doing so. I also recognize that I have some amount of privilege in this regard and that many of my colleagues would find it disrespecful or presumptuous to use first names. In solidarity with them I’d suggest that you call me “Dr. Hallstrom” or “Prof. Hallstrom”.\n\nWhat Should I Call My Professor Flow Chart\n“My First Name” by Susan Harlan, The South Carolina Review, 2017 (49.2)\n“Tenure, She Wrote”\nGender Bias in Course Evaluations\n\n\n\n\n\n\n\n\nContact Information\nhallstro@up.edu\nEmail is a very effective way to communicate with me. If you send me email after 5pm, however, there’s a good chance that I will not see it until the following morning. Similarly, I don’t check my email regularly on weekends so you might not get a reply until Monday. I will do my best to respond as soon as I am able, but if you haven’t heard back from me in a timely manner - please feel free to follow-up!\nYou can also reach me via my office phone: 503-943-7165.\n\n\nOffice\nMy office is located in Buckley Center 270 – located on the second floor of the NW wing. While I do have specific times set aside for drop-in hours, you are always welcome to stop by at anytime!",
-    "crumbs": [
-      "General Info"
-    ]
+    "text": "Instructor\n\n\nChris Hallstrom, PhD  (he/him)\nStudents sometimes ask how they should address me. While I won’t be offended if you use my first name, I know that many students aren’t comfortable doing so. I also recognize that I have some amount of privilege in this regard and that many of my colleagues would find it disrespecful or presumptuous to use first names. In solidarity with them I’d suggest that you call me “Dr. Hallstrom” or “Prof. Hallstrom”.\n\nWhat Should I Call My Professor Flow Chart\n“My First Name” by Susan Harlan, The South Carolina Review, 2017 (49.2)\n“Tenure, She Wrote”\nGender Bias in Course Evaluations\n\n\n\n\n\n\n\n\nContact Information\nhallstro@up.edu\nEmail is a very effective way to communicate with me. If you send me email after 5pm, however, there’s a good chance that I will not see it until the following morning. Similarly, I don’t check my email regularly on weekends so you might not get a reply until Monday. I will do my best to respond as soon as I am able, but if you haven’t heard back from me in a timely manner - please feel free to follow-up!\nYou can also reach me via my office phone: 503-943-7165.\n\n\nOffice\nMy office is located in Buckley Center 270 – located on the second floor of the NW wing. While I do have specific times set aside for drop-in hours, you are always welcome to stop by at anytime!"
   },
   {
     "objectID": "general.html#ai-policy",
     "href": "general.html#ai-policy",
     "title": "General Course Information",
     "section": "AI Policy",
-    "text": "AI Policy\nWe will discuss AI use in class on Wednesday, so I’m holding off on posting my take until then. I’ll update this section later this week.",
-    "crumbs": [
-      "General Info"
-    ]
+    "text": "AI Policy\nWe will discuss AI use in class on Wednesday, so I’m holding off on posting my take until then. I’ll update this section later this week."
   },
   {
     "objectID": "support.html#drop-in-hours",
     "href": "support.html#drop-in-hours",
     "title": "Student Support",
     "section": "Drop-In Hours",
-    "text": "Drop-In Hours\nI have set aside the times listed below during which I am available for drop-in help. You do not need to let me know you’re coming – just stop by my office (BC 270). Many students find these drop-in hours can be particularly helpful if you are working together with classmates. You can work together at one of the tables down the hall from my office and just pop in when you have any questions.\n\nMon, Wed 9:30 - 11\nTuesday 1-3 (starting 9/2)\n\n\n\n\n\n\n\nNote – I’m writing this the week before classes begin. If my schedule changes for some reason, I may need to adjust these times. If that happens, I will let you know!",
-    "crumbs": [
-      "Class Structure",
-      "Student Support"
-    ]
+    "text": "Drop-In Hours\nI have set aside the times listed below during which I am available for drop-in help. You do not need to let me know you’re coming – just stop by my office (BC 270). Many students find these drop-in hours can be particularly helpful if you are working together with classmates. You can work together at one of the tables down the hall from my office and just pop in when you have any questions.\n\nMon, Wed 9:30 - 11\nTuesday 1-3 (starting 9/2)\n\n\n\n\n\n\n\nNote – I’m writing this the week before classes begin. If my schedule changes for some reason, I may need to adjust these times. If that happens, I will let you know!"
   },
   {
     "objectID": "support.html#sign-up-hours",
     "href": "support.html#sign-up-hours",
     "title": "Student Support",
     "section": "Sign-Up Hours",
-    "text": "Sign-Up Hours\nI recognize that your schedule might not allow you to stop by during the posted drop-in hours. Or you simply might find it more convenient to meet with me at a different time. If you go to my Calendly scheduler, you can sign-up for a time slot to meet, either in person or via zoom. If there is a specific time that you would like to meet and you don’t see it available on the Calendly scheduler, please reach out to me via email!",
-    "crumbs": [
-      "Class Structure",
-      "Student Support"
-    ]
+    "text": "Sign-Up Hours\nI recognize that your schedule might not allow you to stop by during the posted drop-in hours. Or you simply might find it more convenient to meet with me at a different time. If you go to my Calendly scheduler, you can sign-up for a time slot to meet, either in person or via zoom. If there is a specific time that you would like to meet and you don’t see it available on the Calendly scheduler, please reach out to me via email!"
   },
   {
     "objectID": "support.html#open-door",
     "href": "support.html#open-door",
     "title": "Student Support",
     "section": "Open Door",
-    "text": "Open Door\nI have the scheduled drop-in hours simply to give you some specific times when you know that I’ll be available – but you are always welcome to stop by my office at any time. Unless I’m in class or in a meeting, I will generally be available to meet with you.",
-    "crumbs": [
-      "Class Structure",
-      "Student Support"
-    ]
+    "text": "Open Door\nI have the scheduled drop-in hours simply to give you some specific times when you know that I’ll be available – but you are always welcome to stop by my office at any time. Unless I’m in class or in a meeting, I will generally be available to meet with you."
   },
   {
     "objectID": "support.html#math-resource-center",
     "href": "support.html#math-resource-center",
     "title": "Student Support",
     "section": "Math Resource Center",
-    "text": "Math Resource Center\nThe MRC offers both drop-in tutoring as well as scheduled, individualized help. I will post the MRC schedule on Moodle as soon as it becomes available (usually the second week of the semester).",
-    "crumbs": [
-      "Class Structure",
-      "Student Support"
-    ]
+    "text": "Math Resource Center\nThe MRC offers both drop-in tutoring as well as scheduled, individualized help. I will post the MRC schedule on Moodle as soon as it becomes available (usually the second week of the semester)."
   },
   {
     "objectID": "content.html#mathematical-practice",
@@ -519,10 +484,7 @@
     "href": "general.html#collaboration",
     "title": "General Course Information",
     "section": "Collaboration",
-    "text": "Collaboration\nUnless otherwise instructed, I encourage you to work together with classmates on homework or other assignments, although any work that you hand in (unless it’s specified as a group assignment) should be your own. Unless otherwise instructed, all check-ins should be done individually.\n\nLate work & extensions\nDue dates for assignments are there to give you structure and to help you keep up with the course material. They also help me provide you with feedback in a timely manner. That said, I understand that things come up periodically that can make it difficult to complete an assignment by the deadline. Life happens!\nIf something comes up that prevents you from completing an assignment by the posted due date, just send me email and let me know when I can expect your work. You do not need to provide an explanation. In general, I will expect to receive your work within one week.\nThere are, however, two hard deadlines to be aware of: Oct. 11th (Friday before Fall break) and Dec. 6th (last day of classes). Except in unusual circumstances or by prior arrangement, I will not accept work after those dates.\n\n\nImportant dates\n\nMon, Aug. 25: Classes begin\nFri, Aug. 29: Last day to add/drop\nMon, Sep. 1: Labor Day – classes in session, offices closed\nMon-Fri, Oct. 13-17: Fall Break\nMon, Nov 24: Last day to Withdraw\nThur-Fri, Nov 27-28: Thanksgiving\nFri, Dec 5: Last day of classes\nMon, Dec 8: Section B final check-in, 1:30-3:30\nTue, Dec 9: Section A final check-in, 1:30-3:30",
-    "crumbs": [
-      "General Info"
-    ]
+    "text": "Collaboration\nUnless otherwise instructed, I encourage you to work together with classmates on homework or other assignments, although any work that you hand in (unless it’s specified as a group assignment) should be your own. Unless otherwise instructed, all check-ins should be done individually.\n\nLate work & extensions\nDue dates for assignments are there to give you structure and to help you keep up with the course material. They also help me provide you with feedback in a timely manner. That said, I understand that things come up periodically that can make it difficult to complete an assignment by the deadline. Life happens!\nIf something comes up that prevents you from completing an assignment by the posted due date, just send me email and let me know when I can expect your work. You do not need to provide an explanation. In general, I will expect to receive your work within one week.\nThere are, however, two hard deadlines to be aware of: Oct. 11th (Friday before Fall break) and Dec. 6th (last day of classes). Except in unusual circumstances or by prior arrangement, I will not accept work after those dates.\n\n\nImportant dates\n\nMon, Aug. 25: Classes begin\nFri, Aug. 29: Last day to add/drop\nMon, Sep. 1: Labor Day – classes in session, offices closed\nMon-Fri, Oct. 13-17: Fall Break\nMon, Nov 24: Last day to Withdraw\nThur-Fri, Nov 27-28: Thanksgiving\nFri, Dec 5: Last day of classes\nMon, Dec 8: Section B final check-in, 1:30-3:30\nTue, Dec 9: Section A final check-in, 1:30-3:30"
   },
   {
     "objectID": "grades.html#engagement-1",
