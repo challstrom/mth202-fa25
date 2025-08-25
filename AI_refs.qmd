@@ -85,28 +85,33 @@ Finally, if you need any assistance getting access to technology, please let me 
 
 ## AI Policy
 
-We will discuss AI use in class on Wednesday, so I'm holding off on posting my take until then.  I'll update this section later this week.
+So here's the deal...  
 
-<!-- So here's the deal...   -->
+I strongly discourage you from using generative AI in any form in this class. 
 
-<!-- I strongly discourage you from using generative AI in any form in this class.  -->
-
-<!-- - From an ethical standpoint, the use of publicly available GenAI tools like ChatGPT or Copilot is highly problematic to say the least.  They are built using stolen intellectual property using exploitative labor practices and they present severe environmental, economic, and political threats to society.   -->
-<!-- - From the standpoint of their impact on learning, there is evidence suggesting that AI use can erode creative and critical thinking skills -- the very things you are in this class to cultivate.  -->
+- From an ethical standpoint, the use of publicly available GenAI tools like ChatGPT or Copilot is highly problematic to say the least.  They are built using stolen intellectual property using exploitative labor practices and they present severe environmental, economic, and political threats to society.  
+- From the standpoint of their impact on learning, there is evidence suggesting that AI use can erode creative and critical thinking skills -- the very things you are in this class to cultivate. 
 
 
-<!-- At the same time, I am not interested in policing you or participating in a surveillance state  [surveillance](https://thehill.com/opinion/technology/4319035-ai-is-supercharging-child-surveillance-and-the-school-to-prison-pipeline/) [structure](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/16105) that claims to “detect” AI-produced material -->
+::: aside
+There is evidence that use of AI facilitates [labor exploitation of Global South laborers](https://www.theguardian.com/technology/article/2024/jul/06/mercy-anita-african-workers-ai-artificial-intelligence-exploitation-feeding-machine) and risks [severe environmental repercussions](https://www.theguardian.com/technology/2024/sep/15/data-center-gas-emissions-tech). Many AI platforms rely on [stolen intellectual labor of artists](https://www.newyorker.com/culture/infinite-scroll/is-ai-art-stealing-from-artists) and some platforms are used to engage in [sexual harassment and exploitation](https://www.pbs.org/newshour/show/women-face-new-sexual-harassment-with-deepfake-pornography). Further, in many cases, these AI bots provide [incorrect and unreliable information](https://www.cbsnews.com/news/ai-chatbots-inaccurate-election-information-proof-news/) and [citations](https://blogs.library.duke.edu/blog/2023/03/09/chatgpt-and-fake-citations/). All of this exploitation for, what Dr. Tressie McMillan Cottom calls, “[a mid technology](https://www.nytimes.com/2025/03/29/opinion/ai-tech-innovation.html?smid=nytcore-ios-share). Often, the social and intellectual harms outweigh the positives. It is for these reasons, the use of AI is prohibited in this class.
+:::
 
-<!-- creating a hostile dynamic between you and your instructor. College is a time for you to decide who you want to be, how you want to engage the work, and take some degree of control. We will discuss this more in class. -->
+I am not interested in policing you or participating in a [surveillance](https://thehill.com/opinion/technology/4319035-ai-is-supercharging-child-surveillance-and-the-school-to-prison-pipeline/) [structure](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/16105) that claims to “detect” AI-produced material
 
+creating a hostile dynamic between you and your instructor. College is a time for you to decide who you want to be, how you want to engage the work, and take some degree of control. We will discuss this more in class.
 
-<!-- Note that this AI policy applies only to this course. For your other courses, please follow those professors’ AI policies, which may differ from mine. -->
+This policy adapted from
 
-## Collaboration
+Note that this AI policy applies only to this course. For your other courses, please follow those professors’ AI policies, which may differ from mine.
 
-Unless otherwise instructed, I encourage you to work together with classmates on homework or other assignments, although any work that you hand in (unless it's specified as a group assignment) should be your own.  Unless otherwise instructed, all check-ins should be done individually.
+### Collaboration
 
+Unless otherwise instructed, I encourage you to work together with classmates on homework or other, although any work that you hand in (unless it's specified as a group assignment) should be your own.
 
+### Online resources (including AI)
+
+I am well aware that there are many online tools that can do many calculations for you. We will talk extensively about when it's appropriate to use these tools and when it is not. If you do use any online resources, you should absolutely document that. Be specific about what tools you use and how you use them.
 
 ### Late work & extensions {#sec-late-work-extensions}
 

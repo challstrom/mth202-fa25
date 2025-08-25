@@ -13,91 +13,106 @@ format:
     colorlinks: true
 ---
 
-## Attendance and Engagement
+## Attendance
 
-Since we will be doing much of our learning through collaborative in-class activities, it's important that you to come to class prepared and ready to engage.  This means being on-time, completing preview activities, completing in-class activites, asking questions, and listening to and supporting your classmates. 
+Since we will be doing much of our learning through collaborative in-class activities, it's important that you to come to class prepared and ready to engage. This means being on-time, completing preview activities prior to class, working productively on in-class activities, asking questions, and listening to and supporting your classmates.
 
-While I do expect you to be in class, I also recognize that life happens and occasionally things come up that might prevent you from being there. There is no penalty to missing class apart from missing out on that day's activity and potentially undermining your own learning.    If you do miss class, please check the class Moodle page to see what we covered that day. If you find yourself missing class more than a few times, you can expect that I will check with you to see how I can support your attendence better.  
+While I do expect you to be in class, I also recognize that life happens and occasionally things come up that might prevent you from being there. Unless it becomes a habit, there is no penalty to missing class apart from missing out on that day's activity. If you do miss class, I expect you to check the class Moodle page to see what we covered that day.
 
-Outside of class, you can engage with the course by completing assignments on-time and coming to student support hours or otherwise reaching out when you are stuck or have questions.
-
-## Due Dates and Extensions
-
-Just like in the "real world", due dates in this class exist and are important.  They help all of us plan our lives and stay organized.  That said, there is usually a certain amount of flexibility and so if something comes up that's going to make it difficult (or impossible) to complete an assignment on time, just let me know.  Simply send me an email letting me know when you expect to get the assignment to me.
-
-- Extension requests will only be considered if they're made prior to or at the due date.
-- You do not need to give me a reason for your extension request.  I trust that if you are asking for an extension then you have a reason.   
-- There is no penalty for late work except that you might not get timely feedback on your work. This could potentially be an issue with AEP assignments which can be revised and resubmitted.
-- If you ask for lots of extensions, you can expect that I will reach out to see if we can work together to find ways for you to keep up with the work in the course.
-
+Finally, if you find yourself missing class more than a few times, you can expect that I will check with you to see how I can support your attendance better.
 
 ## Preview and In-Class Activities
 
-Every time we begin a new section (approximately every other class period), you will be asked to complete a short **Preview Activity** prior to class.  These are designed to introduce and motivate new material.  We will begin class by discussing these activity, so it's important that you come to class having completed it before hand. 
+Every time we begin a new section (approximately every other class period), you will be asked to complete a short **Preview Activity** prior to class. These are designed to introduce and motivate new material. We will begin class by discussing these activities, so it's important that you come to class having completed it before hand.
 
-Much of our in-class time will then be spent working in small groups on additional activities designed to build up our understanding.  While I won't generally collect these, I may from time-to-time just to help me keep track of where we are as a class.
+Much of our in-class time will then be spent working in small groups on additional activities designed to build up our understanding. While I won't generally collect these, I may from time-to-time just to help me monitor class progress and student engagement.
 
-Preview and in-class activites may not be made up.  They are designed to support our day-to-day work, so if you miss class they can no longer to serve that purpose.
-
+Note that preview activities may not be made up. They are designed to support our day-to-day work, so if you miss class they no longer serve that purpose.
 
 ## Homework and WebWork
 
-To assist you in building your understanding with the course material and in practicing new skills, I will assign short daily homework (typically 2-3 problems from the book).  Generally, we will go over these problems in our groups once per week.  
+To assist you in building your understanding with the course material and in practicing new skills, I will assign short daily homework (typically 2-3 problems from the book). Generally, we will go over these problems in our groups once per week.
 
-In addition, you have access to an online homework system to give you additional practice as needed.  This homework will not be graded for correctness - but completion can be used as evidence of engagement.
+In addition, you have access to an online homework system to give you additional practice as needed. This homework will not be graded for correctness - but completion can be used as evidence of engagement.
 
+## Weekly Engagement Report
 
-## Weekly Report
-
-Each week, I will ask you to complete a short one-page reflection on your engagement with the course for that week. Your report should include the following information:
+Every week, I will ask you to complete a short one-page reflection summarizing your engagement with the course for that week. Your report should include the following information:
 
 -   Did you complete the Preview Activites and the assigned homework problems this week? Did you find them helpful?
 -   What questions came up for you while doing these problems or doing the class activities? How did you resolve these questions? What questions do you still have?
--  What is one thing from this week that you feel you have a good understanding of?
--  How did this week's check-in go?  
-
+-   What is one thing from this week that you feel you have a good understanding of?
+-   How did this week's check-in go?
 
 ## Application and Extension Problems (AEP)
 
-Approximately every two weeks, I'll assign a lengthier homework set that is designed to give you a chance to engage with the material more deeply.  These problems are meant to be challenging and you should expect to have questions!  They might also introduce new concepts or ask you to apply what you've learned to new situations.  In addition to giving you an opportunity to extend your engagement with the mathematical content of the course, these assignments are also a chance to practice communicating your mathematical thinking.  It's not enough to solve a problem if you can't convince someone else that you know what you're talking about!
+Approximately every 2-3 weeks, I'll assign a lengthier homework set that is designed to give you a chance to engage with the material more deeply. These problems are meant to be challenging and you should expect to have questions! They might also introduce new concepts or ask you to apply what you've learned to new situations.
+
+In addition to giving you an opportunity to extend your engagement with the mathematical content of the course, these assignments are also a chance to practice communicating your mathematical thinking. It's not enough to solve a problem if you can't convince someone else that you know what you're talking about!
+
+## Due Dates and Extensions
+
+Just like in the "real world", due dates in this class exist and are important. They help all of us plan our lives and stay organized. That said, there is usually a certain amount of flexibility and so if something comes up that's going to make it difficult (or impossible) to complete an assignment on time, just let me know. Simply send me an email letting me know when you expect to get the assignment to me.
+
+-   If you need to ask for an extension, please let me know asap (or better yet, ahead of time). Requests for extensions made after a due date has passed will generally not be honored.
+-   If you ask for an extension, you should plan on handing in work within one week of the due date.
+-   You do not need to give me a reason for your extension request. I trust that if you are asking for an extension then you have a reason.\
+-   There is no penalty for late work except that you might not get timely feedback on your work. This could potentially be an issue with AEP assignments which can be revised and resubmitted.
+-   If you ask for lots of extensions, you can expect that I will reach out to see if we can work together to find ways for you to keep up with the work in the course.
 
 ## Weekly Check-Ins
 
-Most weeeks (typically Thursdays) we will have a short check-in that focuses on the most recent 1-2 topics.  This is the primary mechanism for you to demonstrate proficiency on our specific learning targets - every learing target will appear at least 3 in-class check-ins.
+Most weeeks (typically Thursdays) we will have a short check-in that focuses on 1-3 recently covered topics. This is the primary mechanism for you to demonstrate proficiency on our specific learning targets - every learing target will appear at least 3 in-class check-ins.
 
 For each Learning Target that appears on a check-in, I will provide feedback as follows:
 
-**P** Proficient.  You have demonstrated sufficient understanding or profiency with a that particular topic.  Some small errors are fine, provided I can tell you understand the concepts.
-**R** Minor Revisions Needed.  You have demonstrated an almost comlete understanding, but here are minor errors or gaps in your explanation.
-**N** Not Yet Proficient.  More significant errors or gaps indicate that you are still working on building a sufficient understanding of this topic.
-**I** Incomplete.  Fragmentary or missing response.  
+**P** Proficient. You have demonstrated sufficient understanding with that particular topic.
+
+**R** Minor Revisions Needed. You have demonstrated an almost complete understanding, but there are minor errors or gaps in your explanation.
+
+**N** Not Yet Proficient. More significant errors or gaps indicate that you are still working on building a sufficient understanding of this topic.
+
+**I** Incomplete. Fragmentary or missing response.
 
 ### Revisions
 
-If a learning target is marked as needing minor revisions (R) you may write up a complete, corrected solution and hand it in within one week.  Your revision should include:
+If a learning target is marked as needing minor revisions (**R**) you may write up a complete, corrected solution and hand it in **within one week**. Your revision should include:
 
-  - A brief sentence explaining what your error was.
-  - A brief description of the steps you took to correct your errors.
-  - A complete, rewritten solution.  Do not simply write over your original problem.
+-   A brief sentence explaining what your error was.
+-   A brief description of the steps you took to correct your errors.
+-   A complete, rewritten solution. Do not simply write over your original problem.
 
-Staple your new solution **on top of** your original check-in and indicate clearly that this is a Revision.  If you successfully correct your errors, I will convert your R to a P.
+Staple your new solution **on top of** your original check-in and indicate clearly that this is a Revision. If you successfully correct your errors, I will convert your **R** to a **P**.
 
 ### Re-Assessemnts
 
-Each Learning Target will appear on at least two weekly check=ins as well as the midterm and final so if you aren't able to demonstrate proficiency the first time a Learning Target appears, you will have additional chances in-class.  In addition, however, you may also show proficiency outside of class
-If a learning target is marked as Not Yet Proficient (N) you may schedule a re-assessment outside of class to try again.
+Each Learning Target will appear on at least three in-class check-ins (including the midterm and final check-ins) so if you aren't able to demonstrate proficiency the first time a Learning Target appears, you will have additional chances in class. In addition, you may also show proficiency outside of class:
 
+-   You may do a re-assessment during drop-in hours. Note that during drop-in hours, I will prioritize students who are there with questions, so help expedite this process I ask that you let me know in advance which Learning Target you want to re-assess. You must also bring a re-assessment ticket with you (see below).
+-   You may schedule a re-assessment using my [Calendly link](http://calendly/hallstro). If there's a time you're looking for that you don't see available on Calendly, just let me know!
+
+Finally, please note the following restrictions on re-assessing:
+
+-   You may not attempt more than two (2) re-assessments outside of class per week.
+-   You may not attempt to re-assess more than one learning target per day. Exceptions to this may be made in certain cases where Learning Targets are closely aligned.
+-   No re-assessments, other than the final check-in, will be given during finals week.
+
+### Re-assessment Ticket
+
+If you are reassessing a learning target outside of class, you must submit written responses, on a separate piece of paper, to the following questions at the time of your reassessment:
+
+1.  What were your mistakes/gaps/sticking points on your previous attempt?
+2.  What steps did you take to improve your understanding? Did you re-do the problem? List any resources you used to study and prepare for this attempt.
 
 ## Midterm and Final Check-Ins
 
-Instead of a traditional midterm or final exam, we will instead have a longer check-in which covers all of the Learning Targets that we've covered up to that point.  These are not worth anything more -- they are simply **additional** opportunities to demonstrate proficiencies.  If you've already done that to your satisfaction, then these are **optional**.  
+Instead of a traditional midterm or final exam, we will instead have a longer check-in which covers all of the Learning Targets that we've covered up to that point. These are not worth anything more -- they are simply **additional** opportunities to demonstrate proficiencies. If you've already done that to your satisfaction, then these are **optional**!
 
 **Midterm Check-In**
 
-  - Thursday, October 9th
+-   Thursday, October 9th
 
 **Final Check-In**
-  
-  - Section A: Tuesday, Dec. 9th, 1:30-3:30
-  - Section B: Monday, Dec. 8th, 1:30-3:30
 
+-   Section A: Tuesday, Dec. 9th, 1:30-3:30
+-   Section B: Monday, Dec. 8th, 1:30-3:30

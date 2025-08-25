@@ -2,16 +2,18 @@ project:
   type: website
   output-dir: docs
 
-book:
-  title: "MTH202 :: Fall 2025"
-  author: "Chris Hallstrom"
-  chapters:
-    - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
 
+# book:
+#   title: "MTH202 :: Fall 2025"
+#   author: "Chris Hallstrom"
+#   chapters:
+#     - index.qmd
+#     - intro.qmd
+#     - summary.qmd
+#     - references.qmd
 
+ 
+ 
 website:
   title: "mth202 :: Calculus II <br>Fall 2025"
   description: "MTH202, Fall 2025"
@@ -19,13 +21,10 @@ website:
   page-navigation: true
   
   navbar:
-    background: "#DDA853"
-    right:
-      - structure.qmd
-      - href: course-links.qmd
-        text: Quick Links
+    background: "#7A85C1"
+
   sidebar:
-    background: "#27548A"
+    background: "#B2B0E8"
 #    logo: "images/logo.png"
     pinned: true
     align: center
@@ -46,11 +45,7 @@ website:
       - href: grades.qmd
       - href: UPElements.qmd
         text: University Policies
-      - section: "Preview Activities"
-        contents:
-          - href: slides/01/01-welcome.qmd
-            text: "Tuesday, Week 1"
-            target: _blank
+
 
 format:
   html:
@@ -60,5 +55,7 @@ format:
     toc: true
     highlight-style: monokai
 
+      
 editor: visual
 
+  
