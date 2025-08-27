@@ -507,5 +507,180 @@
       "Class Structure",
       "Grades"
     ]
+  },
+  {
+    "objectID": "slides/review.html#announcements",
+    "href": "slides/review.html#announcements",
+    "title": "MTH 202 Review",
+    "section": "Announcements",
+    "text": "Announcements\n\nThink about what you will add to this week’s engagement report.\nLab 01 due on Friday"
+  },
+  {
+    "objectID": "slides/review.html#more-penguins",
+    "href": "slides/review.html#more-penguins",
+    "title": "Week Two",
+    "section": "More Penguins",
+    "text": "More Penguins\nRecall our palmerpenguins data frame\n\n\nRows: 344\nColumns: 8\n$ species           &lt;fct&gt; Adelie, Adelie, Adelie, Adelie, Adelie, Adelie, Adel…\n$ island            &lt;fct&gt; Torgersen, Torgersen, Torgersen, Torgersen, Torgerse…\n$ bill_length_mm    &lt;dbl&gt; 39.1, 39.5, 40.3, NA, 36.7, 39.3, 38.9, 39.2, 34.1, …\n$ bill_depth_mm     &lt;dbl&gt; 18.7, 17.4, 18.0, NA, 19.3, 20.6, 17.8, 19.6, 18.1, …\n$ flipper_length_mm &lt;int&gt; 181, 186, 195, NA, 193, 190, 181, 195, 193, 190, 186…\n$ body_mass_g       &lt;int&gt; 3750, 3800, 3250, NA, 3450, 3650, 3625, 4675, 3475, …\n$ sex               &lt;fct&gt; male, female, female, NA, female, male, female, male…\n$ year              &lt;int&gt; 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007…\n\n\n\nWhere did this data come from?"
+  },
+  {
+    "objectID": "slides/review.html#begin-with-research-questions",
+    "href": "slides/review.html#begin-with-research-questions",
+    "title": "Week Two",
+    "section": "Begin with Research Question(s)",
+    "text": "Begin with Research Question(s)\n\n\nCan physical measurements be used to determine sex in penguins?\n\nFrom 2007 to 2009 Dr. Kristen Gorman and colleauges collected data to try to answer this and other questions."
+  },
+  {
+    "objectID": "slides/review.html#observational-study",
+    "href": "slides/review.html#observational-study",
+    "title": "Week Two",
+    "section": "Observational Study",
+    "text": "Observational Study\n\nWhat is the population in question?\n\nCollect data for every case in the population -&gt; census\nCollect data for smaller fraction -&gt; sample\n\nFind (calculate) a numerical summary relevant to our question.\n\nNumber calculated for entire population -&gt; parameter\nNumber calculated for sample -&gt; statistic\n\n\n\n\nHopefully, the statistic is close to the parameter!"
+  },
+  {
+    "objectID": "slides/review.html#sampling-methods",
+    "href": "slides/review.html#sampling-methods",
+    "title": "Week Two",
+    "section": "Sampling Methods",
+    "text": "Sampling Methods\nGoal: choose sample so that it accurately represents the population.\n\n\nChallenges (making sure sample represents entire population)\n\nnon-response rates in surveys\nHow were samples chosen – are they truly random?\nwatch out for convenience samples!"
+  },
+  {
+    "objectID": "slides/review.html#simple-random-sample",
+    "href": "slides/review.html#simple-random-sample",
+    "title": "Week Two",
+    "section": "Simple Random Sample",
+    "text": "Simple Random Sample\n\n\n\n\n\nSimple to understand, but often difficult to implement for large populations!"
+  },
+  {
+    "objectID": "slides/review.html#stratified-sampling",
+    "href": "slides/review.html#stratified-sampling",
+    "title": "Week Two",
+    "section": "Stratified Sampling",
+    "text": "Stratified Sampling\n\n\n\n\n\nPopulation is divided into groups (strata). Then another method (e.g. simple random sampling) is used within each stratum."
+  },
+  {
+    "objectID": "slides/review.html#cluster-sample",
+    "href": "slides/review.html#cluster-sample",
+    "title": "Week Two",
+    "section": "Cluster Sample",
+    "text": "Cluster Sample\n Population divided into groups (clusters) and a fixed number of clusters are chosen (sampled). All observations within a cluster are used.\n\nTypically, clusters are similar to each other"
+  },
+  {
+    "objectID": "slides/review.html#multistage-sampling",
+    "href": "slides/review.html#multistage-sampling",
+    "title": "Week Two",
+    "section": "Multistage Sampling",
+    "text": "Multistage Sampling\n\n\n\n\n\nAgain, clusters – but then sampling within the clusters."
+  },
+  {
+    "objectID": "slides/review.html#penguins",
+    "href": "slides/review.html#penguins",
+    "title": "Week Two",
+    "section": "Penguins",
+    "text": "Penguins\nThree separate populations: all Gentoo, Adelie, Chinstrap penguins in Palmer Archipelago region of Antarctica.\n \nQ: How would you sample?"
+  },
+  {
+    "objectID": "slides/review.html#palmer-archipelago",
+    "href": "slides/review.html#palmer-archipelago",
+    "title": "Week Two",
+    "section": "Palmer Archipelago",
+    "text": "Palmer Archipelago"
+  },
+  {
+    "objectID": "slides/review.html#mth-202-review",
+    "href": "slides/review.html#mth-202-review",
+    "title": "mth202 :: Calculus II <br>Fall 2025",
+    "section": "MTH 202 Review",
+    "text": "MTH 202 Review\nWhat questions did you have?"
+  },
+  {
+    "objectID": "slides/review.html#questions-from-mth-202-review",
+    "href": "slides/review.html#questions-from-mth-202-review",
+    "title": "mth202 :: Calculus II <br>Fall 2025",
+    "section": "Questions from MTH 202 Review",
+    "text": "Questions from MTH 202 Review\n\nHow does the chain rule work?\nHow does the quotient rule work?\nHow do you start #1c\n\nclosely related: does this algebra work?\n\nHow do you find a tangent line?\nWhat is a Riemann sum?\n\nor more generally, how do you do #4?"
+  },
+  {
+    "objectID": "slides/review.html#more-general-questions",
+    "href": "slides/review.html#more-general-questions",
+    "title": "mth202 :: Calculus II <br>Fall 2025",
+    "section": "More general questions",
+    "text": "More general questions\n\nHow do you do #1c?\nIs this algebra valid (see #3d for example)\nHow do you do integral / integration problems?\nHow you remember Calc I formulas?\nHow should I review this stuff??"
+  },
+  {
+    "objectID": "slides/review.html#specific-questions-from-mth-202-review",
+    "href": "slides/review.html#specific-questions-from-mth-202-review",
+    "title": "mth202 :: Calculus II <br>Fall 2025",
+    "section": "Specific questions from MTH 202 Review",
+    "text": "Specific questions from MTH 202 Review\n\nHow does the chain rule work?\nHow does the quotient rule work?\nHow do you find a tangent line?\nWhat is a Riemann sum?\n\nor more generally, how do you do #4?"
+  },
+  {
+    "objectID": "slides/review.html#formulas",
+    "href": "slides/review.html#formulas",
+    "title": "mth202 :: Calculus II <br>Fall 2025",
+    "section": "Formulas",
+    "text": "Formulas\n\nIn general, I’m not a fan of memorization.\nThat said, there are basic facts that come up often enough that you should probably know them without looking up\nYou should know:\n\nHow the product, quotient, chain rules work\nDerivatives of basic functions like \\(x^n\\), \\(e^x\\), or \\(\\sin(x)\\)."
+  },
+  {
+    "objectID": "slides/review.html#specific-questions",
+    "href": "slides/review.html#specific-questions",
+    "title": "mth202 :: Calculus II <br>Fall 2025",
+    "section": "Specific Questions",
+    "text": "Specific Questions\n\nHow does the chain rule work?\nHow does the quotient rule work?\nHow do you find a tangent line?\nWhat is a Riemann sum?\n\nor more generally, how do you do #4?\n\nIs this algebra move valid?"
+  },
+  {
+    "objectID": "slides/review.html#what-should-i-remember-from-calc-i",
+    "href": "slides/review.html#what-should-i-remember-from-calc-i",
+    "title": "mth202 :: Calculus II <br>Fall 2025",
+    "section": "What should I remember from Calc I?",
+    "text": "What should I remember from Calc I?\nIn general, I’m not a fan of memorization. But…\n\nthere are basic facts that come up often enough that you should probably know them without looking up"
+  },
+  {
+    "objectID": "slides/review.html#derivatives",
+    "href": "slides/review.html#derivatives",
+    "title": "mth202 :: Calculus II <br>Fall 2025",
+    "section": "Derivatives",
+    "text": "Derivatives\n\nDerivatives of basic functions like \\(x^n\\), \\(e^x\\), \\(\\sin(x)\\), etc.\nProduct, quotient, chain rules\nDerivatives are slopes of tangent lines\nDerivatives are rates of change\n\n(this list is not exhaustive)"
+  },
+  {
+    "objectID": "slides/review.html#integrals",
+    "href": "slides/review.html#integrals",
+    "title": "mth202 :: Calculus II <br>Fall 2025",
+    "section": "Integrals",
+    "text": "Integrals\nYou may have just touched on these topics at the end of Calc I"
+  },
+  {
+    "objectID": "slides/review.html#general-questions",
+    "href": "slides/review.html#general-questions",
+    "title": "mth202 :: Calculus II <br>Fall 2025",
+    "section": "General Questions",
+    "text": "General Questions\n\nHow do you do #1c?\nHow do you do integrals / integration problems?\nHow you remember Calc I formulas?\nHow should I review this stuff??"
+  },
+  {
+    "objectID": "slides/review.html#integrals-and-antiderivatives",
+    "href": "slides/review.html#integrals-and-antiderivatives",
+    "title": "mth202 :: Calculus II <br>Fall 2025",
+    "section": "Integrals and Antiderivatives",
+    "text": "Integrals and Antiderivatives\nExample 1:\n\\[\n\\int x^2 \\, dx\n\\]\n\nThis is an indefinite integral aka an anti-derivative:\nFind the function(s) whose derivative is \\(x^2\\)\n\n\n\\[\n\\frac{1}{3} x^3 + C\n\\]"
+  },
+  {
+    "objectID": "slides/review.html#example-2",
+    "href": "slides/review.html#example-2",
+    "title": "mth202 :: Calculus II <br>Fall 2025",
+    "section": "Example 2",
+    "text": "Example 2\n\\[\n\\int_{-1}^3 x^2 \\, dx\n\\]\n\n\n\nThis is a definite integral. Can represent area under a graph."
+  },
+  {
+    "objectID": "slides/review.html#fundamental-theorem-of-calculus-the-second-one",
+    "href": "slides/review.html#fundamental-theorem-of-calculus-the-second-one",
+    "title": "mth202 :: Calculus II <br>Fall 2025",
+    "section": "Fundamental Theorem of Calculus (the second one)",
+    "text": "Fundamental Theorem of Calculus (the second one)\n\\[\n\\int_a^b f(x) \\, dx = F(b) - F(a)\n\\] where \\(F(x)\\) is an antiderivative of \\(f(x)\\)\n\nSo…\n\\[\n\\int_{-1}^3 x^2 \\, dx = \\frac{1}{3} x^3 \\, \\Bigg \\rvert_{-1}^3 = \\frac{1}{3}27 - \\frac{1}{3}(-1) = \\frac{28}{3}\n\\]"
+  },
+  {
+    "objectID": "slides/review.html#takeaways",
+    "href": "slides/review.html#takeaways",
+    "title": "mth202 :: Calculus II <br>Fall 2025",
+    "section": "Takeaways",
+    "text": "Takeaways\n\nShould know basic derivatives and differentiation rules\nBe prepared to look up Calc I facts that you don’t know\n\nChapter 1-4 of our book\nGVSU MTH201 youtube channel\nGVSU MTH202 youtube channel\nPaul’s online notes\nMath Resource Center (MRC)\nYour friendly neighborhood instructor (that’s me!)"
   }
 ]
