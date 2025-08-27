@@ -660,7 +660,7 @@
     "href": "slides/review.html#integrals-and-antiderivatives",
     "title": "mth202 :: Calculus II <br>Fall 2025",
     "section": "Integrals and Antiderivatives",
-    "text": "Integrals and Antiderivatives\nExample 1:\n\\[\n\\int x^2 \\, dx\n\\]\n\nThis is an indefinite integral aka an anti-derivative:\nFind the function(s) whose derivative is \\(x^2\\)\n\n\n\\[\n\\frac{1}{3} x^3 + C\n\\]"
+    "text": "Integrals and Antiderivatives\n\\[\n\\int x^2 \\, dx\n\\]\n\nThis is an indefinite integral aka an anti-derivative:\nFind the function(s) whose derivative is \\(x^2\\)\n\n\n\\[\n\\frac{1}{3} x^3 + C\n\\]"
   },
   {
     "objectID": "slides/review.html#example-2",

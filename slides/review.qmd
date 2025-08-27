@@ -43,7 +43,7 @@ there are basic facts that come up often enough that you should probably know th
 
 ## Integrals and Antiderivatives
 
-Example 1:
+
 
 $$
 \int x^2 \, dx
