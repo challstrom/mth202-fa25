@@ -19,7 +19,7 @@ This semester, I have two sections of MTH 202. It's helpful (especially early in
 
 ## Instructor
 
-::: columns
+:::::: columns
 ::: {.column width="65%"}
 Chris Hallstrom, PhD <br> (he/him)
 
@@ -37,7 +37,7 @@ Students sometimes ask how they should address me. While I won't be offended if 
 ::: {.column width="30%"}
 ![](images/cch_raingear.png)
 :::
-:::
+::::::
 
 ### Contact Information
 
@@ -84,21 +84,36 @@ Finally, if you need any assistance getting access to technology, please let me 
 
 ## AI Policy
 
-We will discuss AI use in class on Wednesday, so I'm holding off on posting my take until then. I'll update this section later this week.
 
-<!-- So here's the deal...   -->
+-   Using AI tools such as ChatGPT on **homework** or other **submitted work** fundamentally undermines our learning goals and will be considered a violation of UP's academic integrity policy. If I see work that I suspect may have been produced by or with the help of AI tools I will ask you to redo the assignment. I am also obligated to share my concerns with the Dean of Students.
 
-<!-- I strongly discourage you from using generative AI in any form in this class.  -->
+-   For the reasons articulated below, my strong suggestion is that you don't use AI tools **in any other capacity** for this class.
 
-<!-- - From an ethical standpoint, the use of publicly available GenAI tools like ChatGPT or Copilot is highly problematic to say the least.  They are built using stolen intellectual property using exploitative labor practices and they present severe environmental, economic, and political threats to society.   -->
+:::::: columns
+::: {.column width="45%"}
+Generative AI tools such as ChatGPT work by predicting what words will form coherent sentences in the context of the prompt you've given it, essentially ["autocomplete in overdrive"](https://thebullshitmachines.com/lesson-1-autocomplete-in-overdrive/index.html). Gen AI tools have been described as [Bullshit Machines](https://thebullshitmachines.com/) meaning that they are **designed** to produce output that sounds *convincing* without any regard to whether its output is actually *correct*.
 
-<!-- - From the standpoint of their impact on learning, there is evidence suggesting that AI use can erode creative and critical thinking skills -- the very things you are in this class to cultivate.  -->
+This also means that they **are not actually doing any mathematics.** If ChatGPT can do most of your calculus problems its because it was trained on thousands of calculus textbooks (without the author's permission). This also means that there's absolutely no promise that any answers you get from generative AI are correct.
 
-<!-- At the same time, I am not interested in policing you or participating in a surveillance state  [surveillance](https://thehill.com/opinion/technology/4319035-ai-is-supercharging-child-surveillance-and-the-school-to-prison-pipeline/) [structure](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/16105) that claims to “detect” AI-produced material -->
+I often hear students say that they use AI as a "study aid" to do things like help explain concepts, to summarize content, or to check their work.
 
-<!-- creating a hostile dynamic between you and your instructor. College is a time for you to decide who you want to be, how you want to engage the work, and take some degree of control. We will discuss this more in class. -->
+Here's the thing -- those are all skills that you are here (both in this class and at UP) to develop! Struggling to build your own understanding - to make sense of difficult concepts - is the whole point. Using Gen AI to do these tasks for you, you are giving up opportunities to learn.
+Don't undermine your growth as a human learner by looking for shortcuts.
 
-<!-- Note that this AI policy applies only to this course. For your other courses, please follow those professors’ AI policies, which may differ from mine. -->
+And don't forget the part where there's no guarantee that anything an AI chatbot tells you is correct!
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="50%"}
+![](./images/sousanis.jpg)
+:::
+::::::
+
+My general feelings about AI tools are well represented by this passage from Anthony Moser's essay ["I Am An AI Hater"](https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html)
+
+> Critics have ... written thoroughly about the [environmental](https://www.teenvogue.com/story/chatgpt-is-everywhere-environmental-costs-oped) [harms](https://www.bbc.com/news/articles/cy8gy7lv448o), the [reinforcement](https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14) of [bias](https://www.noemamag.com/the-exploited-labor-behind-artificial-intelligence/) and generation of [racist output](https://www.npr.org/2025/07/09/nx-s1-5462609/grok-elon-musk-antisemitic-racist-content), the [cognitive harms](https://www.bloomberg.com/news/articles/2025-08-12/ai-eroded-doctors-ability-to-spot-cancer-within-months-in-study?embedded-checkout=true) and [AI supported suicides](https://www.nytimes.com/2025/08/26/technology/chatgpt-openai-suicide.html), the problems with [consent](https://www.404media.co/deepfake-harassment-ohio-undress-clothoff-nudify-apps/) and [copyright](https://jskfellows.stanford.edu/theft-is-not-fair-use-474e11f0d063), the way AI tech companies further the [patterns of empire](https://karendhao.com/), how [it's a con](https://thecon.ai/) that enables [fraud](https://voiceofsandiego.org/2025/04/14/as-bot-students-continue-to-flood-in-community-colleges-struggle-to-respond/) and [disinformation](https://www.technologyreview.com/2023/10/04/1080801/generative-ai-boosting-disinformation-and-propaganda-freedom-house/) and [harassment](https://www.reuters.com/world/us/fbi-says-artificial-intelligence-being-used-sextortion-harassment-2023-06-07/) and [surveillance](https://www.aclu.org/news/privacy-technology/machine-surveillance-is-being-super-charged-by-large-ai-models), the [exploitation of workers](https://www.wired.com/story/millions-of-workers-are-training-ai-models-for-pennies/), as an [excuse to fire workers](https://www.theverge.com/news/688679/amazon-ceo-andy-jassy-ai-efficiency) and de-skill work, how they [don't actually reason](https://machinelearning.apple.com/research/illusion-of-thinking) and probability and association are [inadequate to the goal of intelligence](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/), how people think it makes them faster when it [makes them slower](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/), how it is inherently mediocre and fundamentally conservative, how it is at its core a [fascist technology](https://newsocialist.org.uk/transmissions/ai-the-new-aesthetics-of-fascism/) rooted in the [ideology of supremacy](https://aworkinglibrary.com/writing/toolmen), defined not by its technical features but [by its political ones](https://ali-alkhatib.com/blog/defining-ai).
 
 ## Collaboration
 
