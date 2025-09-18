@@ -19,7 +19,7 @@ This semester, I have two sections of MTH 202. It's helpful (especially early in
 
 ## Instructor
 
-:::::: columns
+::: columns
 ::: {.column width="65%"}
 Chris Hallstrom, PhD <br> (he/him)
 
@@ -37,7 +37,7 @@ Students sometimes ask how they should address me. While I won't be offended if 
 ::: {.column width="30%"}
 ![](images/cch_raingear.png)
 :::
-::::::
+:::
 
 ### Contact Information
 
@@ -84,15 +84,13 @@ Finally, if you need any assistance getting access to technology, please let me 
 
 ## AI Policy
 
+-   Using AI tools such as ChatGPT on **homework** or other **submitted work** fundamentally undermines our learning goals and will be considered a violation of UP's academic integrity policy. If I see work that I suspect may have been produced by or with the help of AI tools we will have a conversation about it. Note that I am obligated to share any concerns around academic integrity with the Dean of Students.
 
-- Using AI tools such as ChatGPT on **homework** or other **submitted work** fundamentally undermines our learning goals and will be considered a violation of UP's academic integrity policy. If I see work that I suspect may have been produced by or with the help of AI tools we will have a conversation about it.  Note that I am obligated to share any concerns around academic integrity with the Dean of Students.
+-   In addition to work you turn in I strongly suggest, for the reasons articulated below, that you **don't use** AI tools **in any other capacity** for this class.
 
-- In addition to work you turn in I strongly suggest, for the reasons articulated below, that you **don't use** AI tools **in any other capacity** for this class.  
+-   These AI policies apply only to this course. For your other courses, please follow those professors' AI policies, which may differ from mine.
 
-- These AI policies apply only to this course. For your other courses, please follow those professors' AI policies, which may differ from mine.
-
-
-:::::: columns
+::: columns
 ::: {.column width="45%"}
 Generative AI tools such as ChatGPT work by predicting what words will form coherent sentences in the context of the prompt you've given it, essentially ["autocomplete in overdrive"](https://thebullshitmachines.com/lesson-1-autocomplete-in-overdrive/index.html). Gen AI tools have been described as [Bullshit Machines](https://thebullshitmachines.com/) meaning that they are **designed** to produce output that sounds *convincing* without any regard to whether its output is actually *correct*.
 
@@ -100,8 +98,7 @@ This also means that they **are not actually doing any mathematics.** If ChatGPT
 
 I often hear students say that they use AI as a "study aid" to do things like help explain concepts, to summarize content, or to check their work.
 
-Here's the thing -- those are all skills that you are here (both in this class and at UP) to develop! Struggling to build your own understanding - to make sense of difficult concepts - is the whole point. Using Gen AI to do these tasks for you, you are giving up opportunities to learn.
-Don't undermine your growth as a human learner by looking for shortcuts.
+Here's the thing -- those are all skills that you are here (both in this class and at UP) to develop! Struggling to build your own understanding - to make sense of difficult concepts - is the whole point. Using Gen AI to do these tasks for you, you are giving up opportunities to learn. Don't undermine your growth as a human learner by looking for shortcuts.
 
 And don't forget the part where there's no guarantee that anything an AI chatbot tells you is correct!
 :::
@@ -112,7 +109,7 @@ And don't forget the part where there's no guarantee that anything an AI chatbot
 ::: {.column width="50%"}
 ![](./images/sousanis.jpg)
 :::
-::::::
+:::
 
 Fundamentally, I believe that the use of AI tools in this class ultimately gets in the way of authentic learning.
 

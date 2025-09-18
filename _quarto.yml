@@ -1,24 +1,13 @@
 project:
-  type: website
+  type: book
   output-dir: docs
 
-
-# book:
-#   title: "MTH202 :: Fall 2025"
-#   author: "Chris Hallstrom"
-#   chapters:
-#     - index.qmd
-#     - intro.qmd
-#     - summary.qmd
-#     - references.qmd
-
- 
- 
-website:
-  title: "mth202 :: Calculus II <br>Fall 2025"
-  description: "MTH202, Fall 2025"
-
+book:
+  title: "MTH 202 :: Calculus II"
+  subtitle: "Fall 2025"
+  
   page-navigation: true
+  downloads: [pdf]
   
   navbar:
     background: "#7A85C1"
@@ -30,27 +19,26 @@ website:
   
   sidebar:
     background: "#B2B0E8"
-#    logo: "images/logo.png"
     pinned: true
     align: center
 
     style: docked
     search: true
-    collapse-level: 1
+    collapse-level: 2
 
-    contents:
-      - href: index.qmd
-        text: Welcome
-      - href: general.qmd
-        text: General Info
-      - href: support.qmd
-      - href: content.qmd
-        text: Course Content
-      - href: structure.qmd
-      - href: grades.qmd
-      - href: UPElements.qmd
-        text: University Policies
-
+  chapters:
+    - href: index.qmd
+      text: Welcome
+    - href: general.qmd
+      text: General Info
+    - href: support.qmd
+    - href: content.qmd
+      text: Course Content
+    - href: structure.qmd
+    - href: grades.qmd
+    - href: UPElements.qmd
+      text: University Policies
+    
 
 format:
   html:
@@ -58,8 +46,24 @@ format:
     theme: simplex
     css: style/mth202.scss
     toc: true
+    number-sections: false
     highlight-style: monokai
+    link-external-icon: true
+    link-external-newwindow: true
 
+  pdf:
+    documentclass: memoir
+    margin-left: 30mm
+    margin-right: 30mm
+    toc: true
+    number-sections: true
+    colorlinks: true
+    pdf-engine: pdflatex
+    include-in-header:  
+        - text: |
+            \usepackage{enumitem}
+
+   
       
 editor: visual
 

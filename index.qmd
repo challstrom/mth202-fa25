@@ -2,8 +2,10 @@
 sidebar: true
 page-layout: full
 format:
-  html: 
+  html:
     toc: false
+    number-sections: false
+    title-block-style: none
 ---
 
 ::: center

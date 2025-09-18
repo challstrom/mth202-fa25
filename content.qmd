@@ -4,22 +4,19 @@ title: "Course Content"
 format:
   html: 
     toc: true
-    toc-expand: 2
+    toc-expand: 1
     toc-title: "On this page"
   
   pdf: 
     toc: false
     number-sections: true
     colorlinks: true 
-  
-
 ---
-Broadly speaking, this course covers many of the foundational topics of **integral calculus** which includes methods of evaluating integrals as well as their use in the context of a variety of applications.  Additional topics include differential equations and Taylor series which are important tools as you build on your understaning of calculus in later courses.
 
-
-
+Broadly speaking, this course covers many of the foundational topics of **integral calculus** which includes methods of evaluating integrals as well as their use in the context of a variety of applications. Additional topics include differential equations and Taylor series which are important tools as you build on your understaning of calculus in later courses.
 
 ## Learning Targets
+
 The bulk of the course content is represented by the following specific topics which we will call **Learning Targets**. Your goal over the course of the semester is to develop your understanding of these topics and demonstrate that understanding via various assessment tasks -- primarily our weekly check-ins. I've organized these topics to generally align with our textbook.
 
 ### Evaluating Integrals
@@ -60,12 +57,12 @@ The bulk of the course content is represented by the following specific topics w
 
 **T3.** I can use the Taylor series of one or more familiar functions to find the Taylor series for a related function.
 
-
 ## Mathematical Practice
+
 In addition to specific Calculus topics, we will also develop more general aspects of your mathematical practice including
 
-- Ability to communicate mathematical thinking effectively, including correct use of vocabulary, notation, and mathematial representations.
+-   Ability to communicate mathematical thinking effectively, including correct use of vocabulary, notation, and mathematial representations.
 
-- Ability to solve complex and unfamiliar problems.
+-   Ability to solve complex and unfamiliar problems.
 
-- Ability to use technology effectively.
+-   Ability to use technology effectively.

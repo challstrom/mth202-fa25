@@ -27,30 +27,31 @@ Grades, as they are traditionally thought of, are inherently imprecise and don't
 
 Although I am required to submit a grade for each student at the end of the semester, my goal is to de-emphasize the role of grades in this course so that as much as possible our focus is on learning.
 
-For this reason, we will focus on qualitative rather than quantitative feedback (i.e. points) to assess your progress in this course.   Your understanding of the course material, as assessed in terms of demonstrating proficiency on the stated learning targets, is ultimately what matters.
+For this reason, we will focus on qualitative rather than quantitative feedback (i.e. points) to assess your progress in this course. Your understanding of the course material, as assessed in terms of demonstrating proficiency on the stated learning targets, is ultimately what matters.
 
-Your goal should be to demonstrate proficiency on as many of the learning targets as you can by the end of the semester.  I will keep track (and I encourage you to keep track as well) every time you demonstrate proficient level work.  The course level learning goals will be assessed primarily through homework reports, AEPs, and other reflective assignments.  The other, content focused, learning targets primarily through the in-class weekly check-ins.
+Your goal should be to demonstrate proficiency on as many of the learning targets as you can by the end of the semester. I will keep track (and I encourage you to keep track as well) every time you demonstrate proficient level work. The course level learning goals will be assessed primarily through homework reports, AEPs, and other reflective assignments. The other, content focused, learning targets primarily through the in-class weekly check-ins.
 
 ### Grade Guidelines
-Throughout the semester, I will periodically ask you to reflect on your learning and describe your progress.   At the end of the semester,  we will collaboratively determine your grade based on evidence of proficiency in our learning targets.   The following is a framework that I find helpful in thinking about letter grades, you may find it helpful too.
 
-**A** This grade indicates superior work that demonstrates a deep understanding of the material **and** an ability to apply the material to unfamiliar situations.  To earn an A, you should:
+Throughout the semester, I will periodically ask you to reflect on your learning and describe your progress. At the end of the semester, we will collaboratively determine your grade based on evidence of proficiency in our learning targets. The following is a framework that I find helpful in thinking about letter grades, you may find it helpful too.
 
-- Demonstrate proficiency (P) **twice** on all, or almost all, of the content learning targets. 
-- Completing all AEP, demonstrating proficency in both mathematics as well as effective communication.
-- Demonstrate evidence of engagment throughout the semester.
+**A** This grade indicates superior work that demonstrates a deep understanding of the material **and** an ability to apply the material to unfamiliar situations. To earn an A, you should:
 
-**B** This grade indicates good work that meets all requirements and is eminently satisfactory.  You have demonstrated an ability to use and extend knowledge of the material in many contexts.  To earn a B, you should:
+-   Demonstrate proficiency (P) **twice** on all, or almost all, of the content learning targets.
+-   Completing all AEP, demonstrating proficency in both mathematics as well as effective communication.
+-   Demonstrate evidence of engagment throughout the semester.
 
-- Demonstrate proficiency (P) twice on most of the content learning targets. 
-- Complete most of the assiged AEP, demonstrating proficiency in both mathematical content as well as effective communication
+**B** This grade indicates good work that meets all requirements and is eminently satisfactory. You have demonstrated an ability to use and extend knowledge of the material in many contexts. To earn a B, you should:
 
-**C** This grade indicates competent work that demonstrates an acceptable level of knowledge relevant to the course and which should allow you to continue learning in this field of study.  To earn a C, you should:
+-   Demonstrate proficiency (P) twice on most of the content learning targets.
+-   Complete most of the assiged AEP, demonstrating proficiency in both mathematical content as well as effective communication
 
-- Demonstrate proficiency (P) at least once on most of the content learning targets, including most of the Core topics. 
-- Complete some of the assiged AEP, demonstrating proficiency in both mathematical content as well as effective communication
+**C** This grade indicates competent work that demonstrates an acceptable level of knowledge relevant to the course and which should allow you to continue learning in this field of study. To earn a C, you should:
 
-**D/F** A grade of D represents meaningful but unsuccessful attempt at earning a C or above; your understanding of the content is minimal and you would likely struggle to continue study in this field.  An F represents a lack of engagement, effort, or understanding such that there is no evidence of meaningful progress.
+-   Demonstrate proficiency (P) at least once on most of the content learning targets, including most of the Core topics.
+-   Complete some of the assiged AEP, demonstrating proficiency in both mathematical content as well as effective communication
+
+**D/F** A grade of D represents meaningful but unsuccessful attempt at earning a C or above; your understanding of the content is minimal and you would likely struggle to continue study in this field. An F represents a lack of engagement, effort, or understanding such that there is no evidence of meaningful progress.
 
 ### Engagement {.unnumbered}
 
@@ -66,18 +67,15 @@ Here are some ways that you can engage with the class:
 -   Complete AEP on time -- and asking for help when needed
 
 ### Partial Grades
-A grade modifier may be added to your base grade as follows.  
+
+A grade modifier may be added to your base grade as follows.
 
 A + modifier can be added to your grade if you have met the standards stated above **and** you have engaged in the course in particularly significant ways.
 
 A - modifier may be added to the base grade if you have met the standards for a particular grade, but lack of engagement has prevented you from doing more in the course.
-
-
 
 ## Collaborative Grading {.unnumbered}
 
 At mid-semester and again at the end of the semester, we will compare notes about where you are in your learning. I'll ask you to present evidence of your learning and in this way, we will determine your your grade collaboratively.
 
 The intention here is to help you focus on learning in a way that is more organic, as opposed to simply working as you think you're expected to. If this process causes more anxiety than it alleviates, please see me at any point to confer about your progress in the course -- I'm always happy to talk with you about your learning!
-
-
