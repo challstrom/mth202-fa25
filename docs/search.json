@@ -319,14 +319,14 @@
     "href": "slides/masyu.html",
     "title": "MTH 202 :: Calculus II",
     "section": "",
-    "text": "Finished puzzle will contain a loop made of horizontal/vertical segments that connects all the black and white circles\nThe line thru a white circle must be straight. However, there must be at least one corner made on the dot immediately preceding or immediately following the white circle (or on both dots).\nThe line going thru a black circle must turn a corner on the black circle. Both lines emanating from this corner must go straight through the next dot before making any turns."
+    "text": "Finished puzzle will contain a loop made of horizontal/vertical segments that connect all the black and white circles.\nThe line thru a white circle must be straight. However, there must be at least one corner made on the dot immediately preceding or immediately following the white circle (or on both dots).\nThe line going thru a black circle must turn a corner on the black circle. Both lines emanating from this corner must go straight through the next dot before making any turns."
   },
   {
     "objectID": "slides/masyu.html#masyu-instructions",
     "href": "slides/masyu.html#masyu-instructions",
     "title": "MTH 202 :: Calculus II",
-    "section": "Masyu Instructions",
-    "text": "Masyu Instructions\n\nFinished puzzle will contain a loop made of horizontal/vertical segments that connects all the black and white circles\nThe line thru a white circle must be straight. However, there must be at least one corner made on the dot immediately preceding or immediately following the white circle (or on both dots).\nThe line going thru a black circle must turn a corner on the black circle. Both lines emanating from this corner must go straight through the next dot before making any turns."
+    "section": "",
+    "text": "Finished puzzle will contain a loop made of horizontal/vertical segments that connect all the black and white circles.\nThe line thru a white circle must be straight. However, there must be at least one corner made on the dot immediately preceding or immediately following the white circle (or on both dots).\nThe line going thru a black circle must turn a corner on the black circle. Both lines emanating from this corner must go straight through the next dot before making any turns."
   },
   {
     "objectID": "UPElements.html",
