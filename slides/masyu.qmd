@@ -6,7 +6,7 @@ auto-stretch: false
 
 ## Masyu Instructions
 
--   Finished puzzle will contain a loop made of horizontal/vertical segments that connects all the black and white circles
+-   Finished puzzle will contain a loop made of horizontal/vertical segments that connect all the black and white circles.
 
 -   The line thru a white circle must be straight. However, there must be at least one corner made on the dot immediately preceding or immediately following the white circle (or on both dots).
 
