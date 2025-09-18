@@ -1,5 +1,5 @@
 project:
-  type: book
+  type: website
   output-dir: docs
 
 book:
@@ -38,8 +38,46 @@ book:
     - href: grades.qmd
     - href: UPElements.qmd
       text: University Policies
-    
 
+website: 
+  title: "MTH 202 :: Calculus II"
+  
+  page-navigation: true
+
+  navbar:
+    background: "#7A85C1"
+    search: true
+    right:
+      - href: general.qmd
+        text: General Course Info
+    downloads: [pdf]
+  
+  sidebar:
+    background: "#B2B0E8"
+    pinned: true
+    align: center
+
+    style: docked
+    search: true
+    collapse-level: 2
+
+    contents:
+      - href: index.qmd
+        text: Welcome
+      - href: general.qmd
+        text: General Info
+      - href: support.qmd
+      - href: content.qmd
+        text: Course Content
+      - href: structure.qmd
+      - href: grades.qmd
+      - href: UPElements.qmd
+        text: University Policies
+      - section: "Slides"
+        contents:
+          - href: slides/masyu.qmd
+            text: "Masyu Instructions"
+            target: _blank
 format:
   html:
     #theme: sandstone
