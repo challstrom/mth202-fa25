@@ -78,6 +78,9 @@ website:
           - href: slides/masyu.qmd
             text: "Masyu Instructions"
             target: _blank
+          - href: slides/post_fallbreak.qmd
+            text: "Post Fall Break Reminders"
+            target: _blank  
 format:
   html:
     #theme: sandstone

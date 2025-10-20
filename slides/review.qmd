@@ -43,8 +43,6 @@ there are basic facts that come up often enough that you should probably know th
 
 ## Integrals and Antiderivatives
 
-
-
 $$
 \int x^2 \, dx
 $$
@@ -61,7 +59,6 @@ $$
 \frac{1}{3} x^3 + C 
 $$
 
-
 ## Example 2
 
 $$
@@ -70,41 +67,29 @@ $$
 
 . . .
 
-
 ::: columns
-
-::: {.column width="50%"} 
-
+::: {.column width="50%"}
 This is a **definite** integral. Can represent area under a graph.
-
 :::
 
-::: {.column width="50%"} 
-
+::: {.column width="50%"}
 ![](./area.png){.absolute right="0" width="400"}
-
-::: 
-
 :::
-
+:::
 
 ## Fundamental Theorem of Calculus (the second one)
-
-
 
 $$
 \int_a^b f(x) \, dx = F(b) - F(a)
 $$ where $F(x)$ is an antiderivative of $f(x)$
 
-. . . 
+. . .
 
-So... 
+So...
 
 $$
 \int_{-1}^3 x^2 \, dx = \frac{1}{3} x^3 \, \Bigg \rvert_{-1}^3 = \frac{1}{3}27 - \frac{1}{3}(-1) = \frac{28}{3}
 $$
-
-
 
 ## Takeaways
 

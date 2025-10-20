@@ -198,63 +198,63 @@
   {
     "objectID": "slides/review.html#mth-202-review",
     "href": "slides/review.html#mth-202-review",
-    "title": "mth202 :: Calculus II <br>Fall 2025",
-    "section": "",
-    "text": "What questions did you have?"
+    "title": "MTH 202 :: Calculus II",
+    "section": "MTH 202 Review",
+    "text": "MTH 202 Review\nWhat questions did you have?"
   },
   {
     "objectID": "slides/review.html#specific-questions",
     "href": "slides/review.html#specific-questions",
-    "title": "mth202 :: Calculus II <br>Fall 2025",
+    "title": "MTH 202 :: Calculus II",
     "section": "Specific Questions",
     "text": "Specific Questions\n\nHow does the chain rule work?\nHow does the quotient rule work?\nHow do you find a tangent line?\nWhat is a Riemann sum?\n\nor more generally, how do you do #4?\n\nIs this algebra move valid?"
   },
   {
     "objectID": "slides/review.html#general-questions",
     "href": "slides/review.html#general-questions",
-    "title": "mth202 :: Calculus II <br>Fall 2025",
+    "title": "MTH 202 :: Calculus II",
     "section": "General Questions",
     "text": "General Questions\n\nHow do you do #1c?\nHow do you do integrals / integration problems?\nHow you remember Calc I formulas?\nHow should I review this stuff??"
   },
   {
     "objectID": "slides/review.html#what-should-i-remember-from-calc-i",
     "href": "slides/review.html#what-should-i-remember-from-calc-i",
-    "title": "mth202 :: Calculus II <br>Fall 2025",
+    "title": "MTH 202 :: Calculus II",
     "section": "What should I remember from Calc I?",
-    "text": "What should I remember from Calc I?\nIn general, I’m not a fan of memorization. But…\n. . .\nthere are basic facts that come up often enough that you should probably know them without looking up"
+    "text": "What should I remember from Calc I?\nIn general, I’m not a fan of memorization. But…\n\nthere are basic facts that come up often enough that you should probably know them without looking up"
   },
   {
     "objectID": "slides/review.html#derivatives",
     "href": "slides/review.html#derivatives",
-    "title": "mth202 :: Calculus II <br>Fall 2025",
+    "title": "MTH 202 :: Calculus II",
     "section": "Derivatives",
     "text": "Derivatives\n\nDerivatives of basic functions like \\(x^n\\), \\(e^x\\), \\(\\sin(x)\\), etc.\nProduct, quotient, chain rules\nDerivatives are slopes of tangent lines\nDerivatives are rates of change\n\n(this list is not exhaustive)"
   },
   {
     "objectID": "slides/review.html#integrals-and-antiderivatives",
     "href": "slides/review.html#integrals-and-antiderivatives",
-    "title": "mth202 :: Calculus II <br>Fall 2025",
+    "title": "MTH 202 :: Calculus II",
     "section": "Integrals and Antiderivatives",
-    "text": "Integrals and Antiderivatives\n\\[\n\\int x^2 \\, dx\n\\]\n. . .\nThis is an indefinite integral aka an anti-derivative:\nFind the function(s) whose derivative is \\(x^2\\)\n. . .\n\\[\n\\frac{1}{3} x^3 + C\n\\]"
+    "text": "Integrals and Antiderivatives\n\\[\n\\int x^2 \\, dx\n\\]\n\nThis is an indefinite integral aka an anti-derivative:\nFind the function(s) whose derivative is \\(x^2\\)\n\n\n\\[\n\\frac{1}{3} x^3 + C\n\\]"
   },
   {
     "objectID": "slides/review.html#example-2",
     "href": "slides/review.html#example-2",
-    "title": "mth202 :: Calculus II <br>Fall 2025",
+    "title": "MTH 202 :: Calculus II",
     "section": "Example 2",
-    "text": "Example 2\n\\[\n\\int_{-1}^3 x^2 \\, dx\n\\]\n. . .\n\n\nThis is a definite integral. Can represent area under a graph."
+    "text": "Example 2\n\\[\n\\int_{-1}^3 x^2 \\, dx\n\\]\n\n\n\nThis is a definite integral. Can represent area under a graph."
   },
   {
     "objectID": "slides/review.html#fundamental-theorem-of-calculus-the-second-one",
     "href": "slides/review.html#fundamental-theorem-of-calculus-the-second-one",
-    "title": "mth202 :: Calculus II <br>Fall 2025",
+    "title": "MTH 202 :: Calculus II",
     "section": "Fundamental Theorem of Calculus (the second one)",
-    "text": "Fundamental Theorem of Calculus (the second one)\n\\[\n\\int_a^b f(x) \\, dx = F(b) - F(a)\n\\] where \\(F(x)\\) is an antiderivative of \\(f(x)\\)\n. . .\nSo…\n\\[\n\\int_{-1}^3 x^2 \\, dx = \\frac{1}{3} x^3 \\, \\Bigg \\rvert_{-1}^3 = \\frac{1}{3}27 - \\frac{1}{3}(-1) = \\frac{28}{3}\n\\]"
+    "text": "Fundamental Theorem of Calculus (the second one)\n\\[\n\\int_a^b f(x) \\, dx = F(b) - F(a)\n\\] where \\(F(x)\\) is an antiderivative of \\(f(x)\\)\n\nSo…\n\\[\n\\int_{-1}^3 x^2 \\, dx = \\frac{1}{3} x^3 \\, \\Bigg \\rvert_{-1}^3 = \\frac{1}{3}27 - \\frac{1}{3}(-1) = \\frac{28}{3}\n\\]"
   },
   {
     "objectID": "slides/review.html#takeaways",
     "href": "slides/review.html#takeaways",
-    "title": "mth202 :: Calculus II <br>Fall 2025",
+    "title": "MTH 202 :: Calculus II",
     "section": "Takeaways",
     "text": "Takeaways\n\nShould know basic derivatives and differentiation rules\nBe prepared to look up Calc I facts that you don’t know\n\nChapter 1-4 of our book\nGVSU MTH201 youtube channel\nGVSU MTH202 youtube channel\nPaul’s online notes\nMath Resource Center (MRC)\nYour friendly neighborhood instructor (that’s me!)"
   },
@@ -325,8 +325,8 @@
     "objectID": "slides/masyu.html#masyu-instructions",
     "href": "slides/masyu.html#masyu-instructions",
     "title": "MTH 202 :: Calculus II",
-    "section": "",
-    "text": "Finished puzzle will contain a loop made of horizontal/vertical segments that connect all the black and white circles.\nThe line thru a white circle must be straight. However, there must be at least one corner made on the dot immediately preceding or immediately following the white circle (or on both dots).\nThe line going thru a black circle must turn a corner on the black circle. Both lines emanating from this corner must go straight through the next dot before making any turns."
+    "section": "Masyu Instructions",
+    "text": "Masyu Instructions\n\nFinished puzzle will contain a loop made of horizontal/vertical segments that connect all the black and white circles.\nThe line thru a white circle must be straight. However, there must be at least one corner made on the dot immediately preceding or immediately following the white circle (or on both dots).\nThe line going thru a black circle must turn a corner on the black circle. Both lines emanating from this corner must go straight through the next dot before making any turns."
   },
   {
     "objectID": "UPElements.html",
@@ -334,5 +334,40 @@
     "title": "University Policies",
     "section": "",
     "text": "The University of Portland is a diverse academic community of learners and scholars who are dedicated to freely sharing ideas and engaging in respectful discussion of those ideas to discover truth. Such pursuits require each person, whether student or faculty, to present truthfully our own ideas and give credit to others for the ideas that they generate. Thus, cheating on exams, copying another student’s assignment, including homework, or using the work of others without proper citation are some examples of violating academic integrity.\nEspecially for written and oral assignments, students have an ethical responsibility to properly cite the authors of any books, articles, or other sources that they use. Students should expect to submit assignments to Turnitin, a database that ensures assignments are original work of the student submitting. Each discipline has guidelines for how to give appropriate credit, and instructors will communicate the specific guidelines for their discipline. The Clark Library also maintains a webpage that provides citation guidelines at libguides.up.edu/cite.\nThe misuse of AI to shortcut course learning outcomes will be treated as a violation of academic integrity comparable to plagiarism or cheating. Faculty are responsible for including a written “Course AI Policy” in their syllabi that clearly states what they consider appropriate and inappropriate uses of AI in the context of their courses. Students are responsible for using AI in ways that do not detract from the established learning outcomes of the course. All members of the scholarly community are responsible for demonstrating sound judgment in discerning when and how to utilize AI in their work, upholding standards of citation, originality, and integrity."
+  },
+  {
+    "objectID": "slides/post_fallbreak.html#reminders-and-adjustments",
+    "href": "slides/post_fallbreak.html#reminders-and-adjustments",
+    "title": "MTH 202 :: Calculus II",
+    "section": "Reminders and Adjustments",
+    "text": "Reminders and Adjustments"
+  },
+  {
+    "objectID": "slides/post_fallbreak.html#homework",
+    "href": "slides/post_fallbreak.html#homework",
+    "title": "MTH 202 :: Calculus II",
+    "section": "Homework",
+    "text": "Homework\n\n\nHand in report & one solution only  (unless otherwise instructed)\nHomework is practice! If doing or completeing a particular problem is not productive, don’t do it!.\nI expect that you will check your answers with the textbook when possible.\nQuestions are great! But know that I usually can’t answer – unless with a short comment. Bring them to office hours!"
+  },
+  {
+    "objectID": "slides/post_fallbreak.html#welcome-back",
+    "href": "slides/post_fallbreak.html#welcome-back",
+    "title": "MTH 202 :: Calculus II",
+    "section": "Welcome Back!",
+    "text": "Welcome Back!\nReminders and Adjustments\n\nHomework\nCheck-Ins\nAEP"
+  },
+  {
+    "objectID": "slides/post_fallbreak.html#check-ins",
+    "href": "slides/post_fallbreak.html#check-ins",
+    "title": "MTH 202 :: Calculus II",
+    "section": "Check-Ins",
+    "text": "Check-Ins\n\nOne note card/sheet only - no class notes or textbook."
+  },
+  {
+    "objectID": "slides/post_fallbreak.html#aep",
+    "href": "slides/post_fallbreak.html#aep",
+    "title": "MTH 202 :: Calculus II",
+    "section": "AEP",
+    "text": "AEP\n\nNeed BOTH correct (mostly) solutions AND clear, complete explanations!\nMarked on EMRI scale\n\nE: exceeds expectations\nM: meets expectations\nR: needs revisions\nI: incomplete (may not resubmit)\n\nE or M counts as completed"
   }
 ]

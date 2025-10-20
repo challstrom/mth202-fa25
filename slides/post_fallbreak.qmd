@@ -1,0 +1,36 @@
+---
+format: 
+  revealjs
+auto-stretch: false
+---
+
+# Welcome Back!
+
+## Homework
+
+::: incremental
+-   Hand in report & **one** solution only <br> (unless otherwise instructed)
+
+-   Homework is practice! If doing or completeing a particular problem is not productive, **don't do it!**.
+
+-   I expect that you will check your answers with the textbook when possible.
+
+-   Questions are great! But know that I usually can't answer -- unless with a short comment. Bring them to office hours!
+:::
+
+## Check-Ins
+
+-   One note card/sheet only - no class notes or textbook.
+
+## AEP
+
+-   Need BOTH correct (mostly) solutions AND clear, complete explanations!
+
+-   Marked on EMRI scale
+
+    -   E: exceeds expectations
+    -   M: meets expectations
+    -   R: needs revisions
+    -   I: incomplete (may not resubmit)
+
+- E or M counts as *completed*
