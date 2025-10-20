@@ -1,0 +1,37 @@
+---
+title: "AEP2 -- Area of Quad"
+format: html
+editor: visual
+---
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+area <- read_csv("data/area.csv")
+
+area
+```
+
+Make a histogram
+
+```{r}
+area |>
+  ggplot( aes(x = area)) +
+  geom_histogram(bins=20, col="white")
+
+area |>
+  summarize(mean = mean(area, na.rm = TRUE), 
+            median = median(area, na.rm = TRUE),
+            stdev = sd(area, na.rm = TRUE))
+```
+
+
+
+
+```{r}
+area |>
+  ggplot( aes(x = area)) +
+  geom_boxplot()
+```

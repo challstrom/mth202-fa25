@@ -33,4 +33,37 @@ auto-stretch: false
     -   R: needs revisions
     -   I: incomplete (may not resubmit)
 
-- E or M counts as *completed*
+-   E or M counts as *completed*
+
+## AEP 3
+Area of Quad?
+
+Median: 72785 ft^2
+
+```{r}
+#| echo: FALSE
+#| include: FALSE
+
+library(tidyverse)
+area <- read_csv("../quadarea/data/area.csv")
+
+```
+
+
+```{r}
+#| echo: FALSE
+
+area |>
+  ggplot( aes(x = area)) +
+  geom_histogram(bins=20, col="white")
+```
+
+## Mean
+```{r}
+area |>
+  summarize(mean = mean(area, na.rm = TRUE), 
+            median = median(area, na.rm = TRUE),
+            stdev = sd(area, na.rm = TRUE))
+
+```
+

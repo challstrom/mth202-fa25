@@ -1,0 +1,20 @@
+{
+  "hash": "6feac250bb46d917a8c3fea324fd0dd8",
+  "result": {
+    "markdown": "---\nformat: \n  revealjs\nauto-stretch: false\n---\n\n\n# Welcome Back!\n\n## Homework\n\n::: incremental\n-   Hand in report & **one** solution only <br> (unless otherwise instructed)\n\n-   Homework is practice! If doing or completeing a particular problem is not productive, **don't do it!**.\n\n-   I expect that you will check your answers with the textbook when possible.\n\n-   Questions are great! But know that I usually can't answer -- unless with a short comment. Bring them to office hours!\n:::\n\n## Check-Ins\n\n-   One note card/sheet only - no class notes or textbook.\n\n## AEP\n\n-   Need BOTH correct (mostly) solutions AND clear, complete explanations!\n\n-   Marked on EMRI scale\n\n    -   E: exceeds expectations\n    -   M: meets expectations\n    -   R: needs revisions\n    -   I: incomplete (may not resubmit)\n\n-   E or M counts as *completed*\n\n## AEP 3\nArea of Quad?\n\nMedian: 72785 ft^2\n\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](post_fallbreak_files/figure-revealjs/unnamed-chunk-2-1.png){width=960}\n:::\n:::\n\n\n## Mean\n\n::: {.cell}\n\n```{.r .cell-code}\narea |>\n  summarize(mean = mean(area, na.rm = TRUE), \n            median = median(area, na.rm = TRUE),\n            stdev = sd(area, na.rm = TRUE))\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n# A tibble: 1 × 3\n    mean median  stdev\n   <dbl>  <dbl>  <dbl>\n1 79233. 72785. 41488.\n```\n:::\n:::\n",
+    "supporting": [
+      "post_fallbreak_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-after-body": [
+        "\n<script>\n  // htmlwidgets need to know to resize themselves when slides are shown/hidden.\n  // Fire the \"slideenter\" event (handled by htmlwidgets.js) when the current\n  // slide changes (different for each slide format).\n  (function () {\n    // dispatch for htmlwidgets\n    function fireSlideEnter() {\n      const event = window.document.createEvent(\"Event\");\n      event.initEvent(\"slideenter\", true, true);\n      window.document.dispatchEvent(event);\n    }\n\n    function fireSlideChanged(previousSlide, currentSlide) {\n      fireSlideEnter();\n\n      // dispatch for shiny\n      if (window.jQuery) {\n        if (previousSlide) {\n          window.jQuery(previousSlide).trigger(\"hidden\");\n        }\n        if (currentSlide) {\n          window.jQuery(currentSlide).trigger(\"shown\");\n        }\n      }\n    }\n\n    // hookup for slidy\n    if (window.w3c_slidy) {\n      window.w3c_slidy.add_observer(function (slide_num) {\n        // slide_num starts at position 1\n        fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);\n      });\n    }\n\n  })();\n</script>\n\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
